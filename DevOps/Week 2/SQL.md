@@ -1,4 +1,4 @@
-Objectives
+##  Objectives
 	• Understand database  terminology
 	• Build an SQL database
 	• Insert some common data into the database
@@ -24,7 +24,8 @@ Objectives
 	
 	Table_bank_account 
 	Primary key:  customer number is the unique reference number 
-	Foreign key: establish relationship between primary key to use existing information, rather than repeating information to reduce duplicate values. Relationship is used to quickly retrieve data
+	Foreign key: establish relationship between primary key to use existing information, rather than repeating 
+	information to reduce duplicate values. Relationship is used to quickly retrieve data
 	First_name, last_name, money, money in total accounts, banking history
 	
 	Junction table is required to connected two values for many to many. Hence a table is one to many. 
@@ -47,20 +48,19 @@ One-to-one relationship: occurs when there is a unique identifier to another uni
 One-to-many relationships: one customer can have numerous purchases, hence numerous purchase Ids  
 Many-to-many relationships: Student can be assigned to a course and courses to multiple students 
 
-1st Normal Form
+1. 1st Normal Form
 A database is in First Normal form when the following conditions are satified: 
 	• Make everything atomic, data must be presented as small as it can be 
 	• There should be no repeating groups
 For example, a table that records data on a book and its author(s) with the following columns: Book ID, Author 1, 
 Author 2, Author 3 is not in 1NF because authors are repeating the same attribute 
 
-2nd Normal Form
+2. 2nd Normal Form
 A Database is in Second Normal Form when the following conditions are satisfied:
 	• It is in 1NF
 	• All non-key attributes are fully functional dependent on the primary key 
 
-
-3rd normal form
+3. 3rd normal form
 A database is in 3rd Normal Form when the following conditions are satisfied:
 	• It is in 2NF
 	• There is no transitive functional dependency 
