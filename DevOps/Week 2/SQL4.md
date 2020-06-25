@@ -9,3 +9,13 @@
 | YEAR | U| 
 | MONTH | FJ|
 | DAY | FJF|
+
+#####   IMPORTANT FOR EXAM
+|   Types   |descrption       |   
+|     -----   |       ----    |  
+| SUM | SUM(OrderTotal) for the grand total of a column for all rows selected   | 
+| AVG | AVG(UnitPrice) for the average of a column for all rows selected|
+| MIN| MIN(UnitPrice) for the smallest value in a column for all rows selected|
+| MAX| MAX(UnitPrice) for the largest value in a column for all rows selected|
+| COUNT | COUNT(*) for the number of NOT NULL rows selected. 
+if * is used then all rows are counted. 
