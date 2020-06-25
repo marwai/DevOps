@@ -1,4 +1,10 @@
-#   Home Page 
+#   Sparta Global Training 
+
+Man-Wai Tse 
+
+Junior DevOps Engineer
+
+[mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)
 ### Instructions
 
 ####Setting up new Repository 
@@ -18,12 +24,11 @@ git commit -m "comment"
 git push
 ```
 ___
+
 ####Additional Information
 Marcus's Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
 
-[](#DevOps)
-Training notes
-
+Marcus's Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
 ___
 
 ####Calendar 
