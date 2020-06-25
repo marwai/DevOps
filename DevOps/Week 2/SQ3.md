@@ -11,7 +11,7 @@ Mock Test Friday: Daily Standup
 
 #   DDL Focus
 #   saved code
-
+```
 USE Northwind
 DROP DATABASE Marcus_Tse_db;
 CREATE DATABASE Marcus_Tse_db;
@@ -42,9 +42,16 @@ ADD film_id INT IDENTITY(1,5) PRIMARY KEY;
 
 
 INSERT INTO film_table
-    (film_name, film_type, Date_of_release, Director, Writer, STAR, Film_language, Official_Website, Plot_Summary)
+    (film_name, film_type, Date_of_release, Director, Writer,
+    STAR, 
+    Film_language, 
+    Official_Website, 
+    Plot_Summary)
 VALUES
-    ('Inception', 'Sci-fi', '2017-11-05', 'Christopher Nolan', 'Marcus Tse', 5, 'English', 'IMDB', 'Good film')
+    ('Inception', 'Sci-fi', '2017-11-05', 
+ 'Christopher Nolan',
+ 'Marcus Tse', 5,
+ 'English', 'IMDB', 'Good film')
 ;
 
 INSERT INTO film_table
@@ -103,7 +110,9 @@ REFERENCES film_table (film_id) ON DELETE CASCADE;
 ALTER TABLE director
 DROP CONSTRAINT film_id
 
--- One to many relationship one film_id and many film_id in director
+-- One to many relationship one film_id 
+and many film_id in director
+
 ALTER TABLE director
 ADD CONSTRAINT foreign_key_onFilmId FOREIGN KEY (film_id) 
 REFERENCES film_table (film_id) ON DELETE CASCADE;
@@ -111,9 +120,16 @@ REFERENCES film_table (film_id) ON DELETE CASCADE;
 --Drop cascade
 DELETE FROM film_table WHERE film_id=6;
 
+```
+
+
+
+---
 
 #   Wednesday 24th June 2020 
 #   Azure Studio exercises:
+
+````
 /* WHERE clause-filter the data */
 SELECT * FROM Customers WHERE City = 'Paris'
 
@@ -351,3 +367,4 @@ WHERE CHARINDEX('''', p.ProductName) > 0
 SELECT p.ProductName 
 FROM Products p 
 WHERE  p.productName LIKE '%''%';
+```
