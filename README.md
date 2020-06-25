@@ -1,13 +1,14 @@
-#   Sparta Global Training 
+# Sparta Global Training 
 
-Man-Wai Tse 
+Man-Wai Tse, 
 
-Junior DevOps Engineer
+Junior DevOps Engineer,
 
 [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)
+---
 ### Instructions
 
-####Setting up new Repository 
+#### Setting up new Repository 
 ```
 git init
 git add README.md
@@ -25,13 +26,13 @@ git push
 ```
 ___
 
-####Additional Information
+#### Additional Information
 Marcus's Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
 
 Marcus's Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
 ___
 
-####Calendar 
+#### Calendar 
 - [x] Week 1 - Business Week
 - [ ] Week 2 - SQL
 - [ ] Week 3 - Python  
