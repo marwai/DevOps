@@ -1,5 +1,5 @@
-# Home Page 
-###Instructions
+#   Home Page 
+### Instructions
 
 ####Setting up new Repository 
 ```
@@ -20,6 +20,10 @@ git push
 ___
 ####Additional Information
 Marcus's Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
+
+[](#DevOps)
+Training notes
+
 ___
 
 ####Calendar 
