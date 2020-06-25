@@ -11,19 +11,19 @@ Mock Test Friday: Daily Standup
 
 #   DDL Focus
 #   saved code
-```
-USE Northwind
-DROP DATABASE Marcus_Tse_db;
-CREATE DATABASE Marcus_Tse_db;
-USE Marcus_Tse_db;
 
--- Create Statements
-DROP TABLE film_table;
-/* CREATING A DATABASE*/
---Identity(1,1)--->1, 1+1=2,3,4
+    USE Northwind
+    DROP DATABASE Marcus_Tse_db;
+    CREATE DATABASE Marcus_Tse_db;
+    USE Marcus_Tse_db;
 
-CREATE TABLE film_table
-(
+    -- Create Statements
+    DROP TABLE film_table;
+    /* CREATING A DATABASE*/
+    --Identity(1,1)--->1, 1+1=2,3,4
+
+    CREATE TABLE film_table
+    (
     film_name VARCHAR(11),
     film_type VARCHAR(10),
     Date_of_release DATE,
@@ -33,12 +33,12 @@ CREATE TABLE film_table
     Film_language CHAR(10),
     Official_Website VARCHAR(20),
     Plot_Summary VARCHAR(2000),
-)
-;
+    )
+    ;
 
---film_id INT IDENTITY(1,1) PRIMARY KEY,
-ALTER TABLE film_table
-ADD film_id INT IDENTITY(1,5) PRIMARY KEY;
+    --film_id INT IDENTITY(1,1) PRIMARY KEY,
+    ALTER TABLE film_table
+    A   DD film_id INT IDENTITY(1,5) PRIMARY KEY;
 
 
 INSERT INTO film_table
@@ -120,16 +120,16 @@ REFERENCES film_table (film_id) ON DELETE CASCADE;
 --Drop cascade
 DELETE FROM film_table WHERE film_id=6;
 
-```
 
 
 
----
+
+
 
 #   Wednesday 24th June 2020 
 #   Azure Studio exercises:
 
-````
+
 /* WHERE clause-filter the data */
 SELECT * FROM Customers WHERE City = 'Paris'
 
