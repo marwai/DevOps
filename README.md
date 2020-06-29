@@ -1,4 +1,7 @@
 # Sparta Global Training 
+    Hi, welcome to my Github. I will be recording my journey
+    at Sparta Global Academy all here. Including all my files,
+    pictures, notes  :notebook_with_decorative_cover:
 Man-Wai Tse (Marcus),  
 Junior DevOps Engineer,   
    [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)
@@ -24,15 +27,15 @@ git push
 ```
 ___
 
-#### Additional Information
+#### :blue_book: Additional Information
 Marcus's Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
 
 ___
 
-#### Calendar 
+#### :calendar: Calendar 
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/DevOps/Week%201%20Business%20Week)
 - [x] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/DevOps/Week%202%20SQL%20Week)
 - [ ] Week 3 - Python  
 - [ ] Week 4 - Python 
-- [ ] Week 5 - Project Week
+- [ ] Week 5 - Python Project Week
 
