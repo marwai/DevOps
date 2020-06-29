@@ -1,5 +1,5 @@
 # Sparta Global Training :star:
-####    **Man-Wai Tse (Marcus)**,
+####    **Man-Wai Tse ```(Marcus)```**,
 #####   Trainee DevOps Engineer,
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
@@ -32,7 +32,7 @@ git push
 ___
 
 #### :blue_book: Additional Information
-Marcus's Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
+##### ``` Marcus's ``` Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
 
 ___
 
