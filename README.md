@@ -1,15 +1,15 @@
 # Sparta Global Training 
-#### Man-Wai Tse (Marcus)
-##### Trainee DevOps Engineer
-##### [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
+####    Man-Wai Tse (Marcus),
+#####   Trainee DevOps Engineer,
+#####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
  Hi, welcome to my Github. I will be recording my journey
  at Sparta Global Academy all here. Including all my files,
  pictures, notes :notebook_with_decorative_cover: 
 
 
-Marcus' Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)   
-Marcus' Training Calendar [Here](https://github.com/marwai/DevOps#calendar-calendar)
+ Marcus' Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)   
+ Marcus' Training Calendar [Here](https://github.com/marwai/DevOps#calendar-calendar)
 ---
 #### Setting up new Repository 
 ```
