@@ -8,13 +8,8 @@
     pictures and notes  
  :notebook_with_decorative_cover:      
  
-
-
 ##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
 ##### ```Marcus' ``` Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-97mt/)
-##### ``` Marcus' ``` Trainee Calendar [Here](https://github.com/marwai/DevOps#calendar-calendar)
- 
-
 
 ___
 
@@ -25,10 +20,6 @@ ___
 - [ ] Week 4 - Python 
 - [ ] Week 5 - Python Project Week
 
----
-
-
-#### :blue_book: Additional Information             
 
 ---
 
