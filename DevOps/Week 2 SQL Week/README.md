@@ -9,6 +9,6 @@
     - Subquery
     - DML, DDL
     - Wildcards
-    - HAVING, WHERE Clauses
+    - HAVING, WHERE clauses
     
   
