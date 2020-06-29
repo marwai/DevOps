@@ -1,13 +1,10 @@
 # Sparta Global Training 
+Man-Wai Tse (Marcus),  
+Junior DevOps Engineer,   
+   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)
 
-Man-Wai Tse (Marcus), 
-
-Junior DevOps Engineer,
-
-[mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)
----
-### Instructions
-
+Marcus' Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)   
+Marcus' Training Calendar [Here](https://github.com/marwai/DevOps#calendar)
 #### Setting up new Repository 
 ```
 git init
@@ -29,12 +26,11 @@ ___
 #### Additional Information
 Marcus's Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
 
-Marcus's Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
 ___
 
 #### Calendar 
-- [x] Week 1 - Business Week
-- [ ] Week 2 - SQL
+- [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/DevOps/Week%201%20Business%20Week)
+- [ ] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/DevOps/Week%202%20SQL%20Week)
 - [ ] Week 3 - Python  
 - [ ] Week 4 - Python 
 - [ ] Week 5 - Project Week
