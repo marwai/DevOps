@@ -30,7 +30,7 @@ ___
 
 #### Calendar 
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/DevOps/Week%201%20Business%20Week)
-- [ ] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/DevOps/Week%202%20SQL%20Week)
+- [x] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/DevOps/Week%202%20SQL%20Week)
 - [ ] Week 3 - Python  
 - [ ] Week 4 - Python 
 - [ ] Week 5 - Project Week
