@@ -5,6 +5,7 @@ Junior DevOps Engineer,
 
 Marcus' Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)   
 Marcus' Training Calendar [Here](https://github.com/marwai/DevOps#calendar)
+---
 #### Setting up new Repository 
 ```
 git init
