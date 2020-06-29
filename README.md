@@ -5,7 +5,7 @@
   
  Hi, welcome to my Github. I will be recording my journey
  at Sparta Global Academy all here. Including all my files,
- pictures, notes :notebook_with_decorative_cover: 
+ pictures and notes :notebook_with_decorative_cover: 
 
 
  Marcus' Trainee Notes [Here](https://github.com/marwai/DevOps/tree/master/DevOps)   
