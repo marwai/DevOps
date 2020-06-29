@@ -1,5 +1,5 @@
 # Sparta Global Training :star:
-####    **Man-Wai Tse ```(Marcus)```**,
+####    **Man-Wai Tse (```Marcus```)**,
 #####   Trainee DevOps Engineer,
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
