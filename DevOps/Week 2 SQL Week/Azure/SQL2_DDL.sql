@@ -242,6 +242,6 @@ CHARINDEX('''', P.ProductName) AS "Index a Quote"
 FROM Products p
 WHERE CHARINDEX('''', p.ProductName) > 0 
 
-SELECT p.ProductName 
+SELECT p.ProductName, CHARINDEX('%''%', p.ProductName)
 FROM Products p 
 WHERE  p.productName LIKE '%''%';

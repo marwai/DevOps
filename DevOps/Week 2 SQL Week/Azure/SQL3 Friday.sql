@@ -3,7 +3,7 @@
 SELECT OrderID, CONVERT(VARCHAR(10),OrderDate,103) AS [dd/MM/yyyy]
 FROM Orders; /* Before 2012 */
 
-SELECT OrderID,FORMAT(OrderDate, 'dd/MM/YYYY')
+SELECT OrderID,FORMAT(OrderDate, 'dd/MM/yyyy')
 FROM Orders; /*After2012*/
 /*
 Subquery 

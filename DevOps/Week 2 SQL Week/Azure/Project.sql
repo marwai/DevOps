@@ -1,8 +1,8 @@
 -- 1.1 Write a query that lists all Customers in either Paris or London. Include Customer ID, Company Name and all address fields. 
 -- simple use of WHERE clause, can use either 'columnname in ('','') or OR operator
-SELECT c.CustomerID, c.CompanyName, c.Address, c.city, c.PostalCode, c.Country
+SELECT c.CustomerID, c.CompanyName, c.Address, c.City, c.PostalCode, c.Country
 FROM Customers c
-WHERE city IN ('paris','london');
+    WHERE c.City IN ('paris','london');
 
 -- 1.2 List all products stored in bottles
 -- LIKE %bottle% any before and after bottle so including bottles
