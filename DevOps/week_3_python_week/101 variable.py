@@ -47,10 +47,10 @@
 #     prompt the user get all the information above
 
 def information():
-    first_name = input("What is your name?")
-    last_name = input("What is your last name?")
-    age = input("What is your age?")
-    address = input("What is your address?")
+    first_name = input("What is your name? ")
+    last_name = input("What is your last name? ")
+    age = input("What is your age? ")
+    address = input("What is your address? ")
     full_name = (first_name + " " + last_name)
     details = (full_name + " " + age + " " + address)
     print(details)
