@@ -1,9 +1,12 @@
-## 101
-* python variables
-* what is a variable
-* Types of variable 
+# Day 1 
+### 101
+* python variables     
+* what is a variable   
+* Types of variable  
 
-first_name = ' ', last_name = ' ', 
-___
-## 102
+### 102
 * Data types and operators
+* Boolean 
+* Double quotes and single quotes
+
+###103
