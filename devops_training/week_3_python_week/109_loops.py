@@ -42,13 +42,13 @@
 #         print(letters)
 
 # For loop in dictionaries
-student_record = {"Name" : "Marcus",
-                  "Stream":"DevOps",
-                  "completed_lesson": 5,
-                  "completed_lessons_name": ["strings","tuples","variables"]
-                  }
-for record in student_record.values():
-    print(record)
+# student_record = {"Name" : "Marcus",
+#                   "Stream":"DevOps",
+#                   "completed_lesson": 5,
+#                   "completed_lessons_name": ["strings","tuples","variables"]
+#                   }
+# for record in student_record.values():
+#     print(record)
 
 # Exercise
 # Dictionary with employee records with minimum 5 key:value pairs
@@ -60,3 +60,5 @@ employee_records = {"Name" : "Marcus",
                     "Spartan_ID": 12342,
                     "Skills": ["SQL", "Python", "GitHub"]
                   }
+for key,value in employee_records.items():
+    print(key,":",value)

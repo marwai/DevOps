@@ -21,15 +21,26 @@ else:
 # if age 12 or less can't watch any movies above the age of 12
 # if PG
 # if U
-age = input("What is your age? ")
-if  age >= "21":
+age = int(input("What is your age? "))
+if age >= 21:
     print("Wow you're {} you can go to Las Vegas".format(age))
-elif age >= "18":
+elif 21 > age >= 18:
     print("{} year olds can watch all films".format(age))
-elif age <= "15":
+elif 18 > age >= 15:
     print("{} years olds can watch films rated 15 and below".format(age))
-
-elif age < "12":
+elif 15 > age >= 12:
     print("{} year olds can watch films rated with 12A with an adult and any films below unaccompanied".format(age))
 else:
     print("{} year olds can watch U films".format(age))
+
+# age = 18
+# if age > 21:
+#     print("Wow you're {} you can go to Las Vegas".format(age))
+# elif 21 > age >= 18:
+#     print("{} year olds can watch all films".format(age))
+# elif 12 < age <= 15:
+#     print("{} years olds can watch films rated 15 and below".format(age))
+# elif 10 < age <= 12:
+#     print("{} year olds can watch films rated with 12A with an adult and any films below unaccompanied".format(age))
+# else:
+#     print("{} year olds can watch U films".format(age))
