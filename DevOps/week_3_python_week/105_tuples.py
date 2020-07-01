@@ -16,3 +16,7 @@ print(date_of_birth_list)
 # add your name into the string at 0
 date_of_birth_list.insert(0,"marcus")
 print(date_of_birth_list)
+
+# tuple()
+date_of_birth_tuple = tuple(date_of_birth_list)
+print(date_of_birth_tuple)
