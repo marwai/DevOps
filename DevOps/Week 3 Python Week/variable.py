@@ -43,32 +43,32 @@
 #     addres = "123, 122""
 #     #   prompt the user get all the information above
 
-# def information():
-#     first_name = input("What is your name?")
-#     last_name = input("What is your last name?")
-#     age = input("What is your age?")
-#     address = input("What is your address?")
-#     full_name = first_name + " " + last_name
-#     details = full_name + " " + age + " " + address
-#     print(details)
-# information()
-
 def information():
     first_name = input("What is your name?")
-    if first_name == "Marcus":
-        print(first_name,"Learning python is fun!")
-    elif first_name == Marwai:
-        print("Hey", first_name, "welcome to the league of python!")
-    else:
-        print("You should learn python, {}!".format(first_name))
     last_name = input("What is your last name?")
-    age = int(input("What is your age?"))
-    if age <= 10:
-        print("wow you are {} already, you should learn python!".format(age))
+    age = input("What is your age?")
     address = input("What is your address?")
-    if  "sunnybank" in address:
-        print("You must be from kent! since you're from {}".format(address))
     full_name = first_name + " " + last_name
-    details = full_name + ", " + str(age) + " ," + address
+    details = full_name + " " + age + " " + address
     print(details)
 information()
+
+# def information():
+#     first_name = input("What is your name?")
+#     if first_name == "Marcus":
+#         print(first_name,"Learning python is fun!")
+#     elif first_name == Marwai:
+#         print("Hey", first_name, "welcome to the league of python!")
+#     else:
+#         print("You should learn python, {}!".format(first_name))
+#     last_name = input("What is your last name?")
+#     age = int(input("What is your age?"))
+#     if age <= 10:
+#         print("wow you are {} already, you should learn python!".format(age))
+#     address = input("What is your address?")
+#     if  "sunnybank" in address:
+#         print("You must be from kent! since you're from {}".format(address))
+#     full_name = first_name + " " + last_name
+#     details = full_name + ", " + str(age) + " ," + address
+#     print(details)
+# information()
