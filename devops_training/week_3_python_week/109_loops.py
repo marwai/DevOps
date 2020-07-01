@@ -58,7 +58,8 @@
 employee_records = {"Name" : "Marcus",
                     "Role":"DevOps",
                     "Spartan_ID": 12342,
-                    "Skills": ["SQL", "Python", "GitHub"]
+                    "Skills": ["SQL", "Python", "GitHub"],
+                    "comments": "Enjoys longboarding"
                   }
 for key,value in employee_records.items():
     print(key,":",value)
