@@ -1,6 +1,6 @@
-# let's create a variable
-
 # print("Hello world ")
+
+# commit naming convention
 
 # x = 9 #   Type of integer
 # y = 9.1 # Type of float
@@ -51,8 +51,8 @@ def information():
     last_name = input("What is your last name?")
     age = input("What is your age?")
     address = input("What is your address?")
-    full_name = first_name + " " + last_name
-    details = full_name + " " + age + " " + address
+    full_name = (first_name + " " + last_name)
+    details = (full_name + " " + age + " " + address)
     print(details)
 information()
 
