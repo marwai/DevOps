@@ -1,47 +1,50 @@
-#   let's create a variable
+# let's create a variable
 
 # print("Hello world ")
-#
-# x = 9 # type of integer
-# y = 9.1 #float
-#
+
+# x = 9 #   Type of integer
+# y = 9.1 # Type of float
+# name = #  'Marcus' Type of String
+
 # print(x)
 # age = 23
 # NHS = 12456789
 # name = input("Please enter your name")
-#
-#
-# #   salary = 50000
-#
+# salary = 50000
+
 # print(name)
 # print(age)
 # a = x + y
-#   Casting an int to string
-#   print(str(a) + (name))
 # name = "James"
 # print(name)
 # name = "bond"
+# print(str(a) + (name))
 # print(name)
 
-#   Exercise
-#   Create a variable called first_name, last_name
-# first_name = Marcus, last_name = Tse
-#   Create a variable called full_name
+# print(type(name)) # Returns the type of data in this case it is a string
+
+# print( x + name ) # You cannot add together data types of string and int
+
+# print(str(x) + name) # You must convert the INT into a string using the str() function. This is known as casting.
+
+# A Python variable is a reserved memory location to store values.
+# In other words, a variable in a python program gives data to the computer for processing
+
+# Exercise
+# Create a variable called first_name, last_name
+# Create a variable called full_name
 # full_name = first_name + last_name
-# #   create a variable called age
-# age = 23
-# #   create a variable called address
-# addres = "123, 122""
-# #   prompt the user get all the information above
-#
-# ##### ``` Marcus' ``` Trainee Notes
+# create a variable called age
+# create a variable called address
+# prompt the user get all the information above
+
 # def details(info):
 #     first_name = Marcus
 #     last_name = Tse
 #     age = 23
-#     #   create a variable called address
+#     create a variable called address
 #     addres = "123, 122""
-#     #   prompt the user get all the information above
+#     prompt the user get all the information above
 
 def information():
     first_name = input("What is your name?")
@@ -53,6 +56,7 @@ def information():
     print(details)
 information()
 
+# Additional Work
 # def information():
 #     first_name = input("What is your name?")
 #     if first_name == "Marcus":
