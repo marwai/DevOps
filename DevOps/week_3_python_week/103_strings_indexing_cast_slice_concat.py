@@ -28,7 +28,7 @@
 # print(len(remove_white_space))
 
 # .count() counts the substring within the string
-use_text = "Here's SOME text with lot's of text"
+use_text = "here's SOME text with lot's of text"
 print(use_text.count("text"))
 # .lower() lowers the caps within the string
 print(use_text.lower())
@@ -39,4 +39,11 @@ print(use_text.upper())
 # .title makes everything UPPERCASE
 print(use_text.title())
 
+# Capitalize first letter of the sentence
+print(use_text.capitalize()) # Used to interact with User a lot
 
+# replacing text in the string
+print(use_text.replace("with", ","))
+
+# .startwith prints answer in boolean
+print(use_text.startswith("hi"))
