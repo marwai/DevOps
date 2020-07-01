@@ -3,9 +3,8 @@
 #####   Trainee DevOps Engineer,
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
-    Hi, welcome to my Github. I will be recording my journey
-    at Sparta Global Academy all here. Including all my files,
-    pictures and notes  
+    Hi, welcome to my Github. 
+    All my learning material will be documente here
  :notebook_with_decorative_cover:      
  
 ##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
@@ -16,7 +15,7 @@ ___
 #### :calendar: Calendar 
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/DevOps/Week%201%20Business%20Week)
 - [x] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/DevOps/Week%202%20SQL%20Week)
-- [ ] Week 3 - Python  
+- [ ] Week 3 - [Python](https://github.com/marwai/DevOps/tree/master/devops_training/week_3_python_week)
 - [ ] Week 4 - Python 
 - [ ] Week 5 - Python Project Week
 
