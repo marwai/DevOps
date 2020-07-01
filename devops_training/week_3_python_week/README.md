@@ -16,7 +16,11 @@
 
 ### 104
 * Syntax of list
-* Built-in methods append, remove, pop, insert 
+* Built-in methods 
+    * append 
+    * remove
+    * pop
+    * insert 
 
 ### 105
 * Definition
