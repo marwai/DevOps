@@ -4,23 +4,23 @@
 ---
 
 # Day 1 
-### 101 Variables 
+### [101 Variables ](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/101%20variable.py)
 * python variables     
 * what is a variable   
 * Types of variable  
 
-### 102 Data Types
+### [102 Data Types](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/102_data_types.py)
 * Data types and operators
 * Boolean 
 * Double quotes and single quotes
 
-### 103 Strings
+### [103 String](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/103_strings_indexing_cast_slice_concat.py)
 * Concat
 * Index
 * Slice
 * Placeholder 
 
-### 104 Lists
+###[104 List](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/104%20_lists.py)
 * Syntax of list
 * Built-in methods 
     * append 
@@ -28,23 +28,23 @@
     * pop (using built-in method)
     * insert 
 
-### 105 Tuples
+###[105 Tuple](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/105_tuples.py)
 * Definition
 * Converting tuples into strings 
 
-### 106 Dictionaries 
+###[106 Dictionaries](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/106_dictionaries.py)
 * key, value pairs
 * recalling, sorted 
 * placeholding dictionaries 
 
-### 107 Control Flow
+###[107 Control Flow](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/107_control_flow.py)
 * if, elif, else, while 
-### 108 Sets
+###[108 Sets](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/108_sets.py)
 * {}
 * add, discard 
-### 109 Loops 
+###[109 Loops](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/109_loops.py)
 * for loops
-### 110 While Loops
+###[110 While Loop](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/110_while_loop.py)
 
 ---
     Things to remember: List[], tuples(), sets{}
