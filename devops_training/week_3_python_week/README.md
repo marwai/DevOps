@@ -59,19 +59,26 @@ ___
 * Add, subtract, multiply etc methods 
 * DRY
 * Input function
+* Use *multiargs and arg
 
 ### [112 Maths functions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/112_math_functions.py)
-* Converting cm to inches
+* Converting cm to inches exercise
 
 ### [113 OOP Classes](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/113_oop_classes.py)
-*
+* Naming convention for classes 
+* Created a calculator 
+
 ### [114 OOP Example](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/114_OOP.py)
 *
 ### [115](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/115.py)
-*
+* Exercise
 ### [116 definitions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/116_read.md)
-*
+* 4 pillars:
+    * Encapsulation
+    * Polymorphism
+    * Inheritance
+    * Abstraction
 ---
-#### ``` Things to remember:```  ```/n new line ```
+#### ``` Things to remember:```  ```/n new line, .super()```
 
 ---
