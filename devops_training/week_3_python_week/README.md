@@ -69,7 +69,7 @@ ___
 * Created a calculator 
 
 ### [114 OOP Example](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/114_OOP.py)
-*
+* Classes animals (in-depth)
 ### [115](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/115.py)
 * Exercise
 ### [116 definitions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/116_read.md)
