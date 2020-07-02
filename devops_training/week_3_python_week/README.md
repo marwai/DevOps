@@ -59,5 +59,7 @@ ___
 * Add, subtract, multiply etc methods 
 * DRY
 * Input function
-
+---
 #### ``` Things to remember```  ```/n new line ```
+
+---
