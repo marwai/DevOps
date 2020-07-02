@@ -50,7 +50,7 @@
 
 
 ---
-    Things to remember: List[], tuples(), sets{}
+#### ```Things to remember:``` ```List[], tuples(), sets{}```
 ___
 
 ## Day 2
@@ -60,4 +60,4 @@ ___
 * DRY
 * Input function
 
-    /n new line 
+####``` Things to remember```  ```/n new line ```
