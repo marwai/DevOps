@@ -54,3 +54,8 @@
 ___
 
 ## Day 2
+
+### Functions
+* Add, subtract, multiply etc methods 
+* DRY
+* Input function 

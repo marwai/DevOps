@@ -85,3 +85,18 @@ print(multiply(6,6))
 def remainder(num1,num2):
     return num1%num2
 print(remainder(6,6))
+
+# Create a function with multiple args
+def multi_args(*multiargs):
+   # print(type(multiargs))
+    for args in multiargs:
+        print(args)
+    return args
+print(multi_args(1, 2, 3, 4, 5, 6, 7))
+
+def user_multiply():
+    num_1 = int(input("Choose a number:\n"))
+    num_2 = int(input("Choose another number:\n"))
+    print("The product of your chosen numbers is: ")
+    return num_1 * num_2
+print(user_multiply())
