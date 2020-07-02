@@ -1,6 +1,7 @@
-[DAY 1]
-[DAY 2]
-
+:Calendar:      
+[DAY 1](https://github.com/marwai/DevOps/tree/master/devops_training/week_3_python_week#day-1)  
+[DAY 2](https://github.com/marwai/DevOps/tree/master/devops_training/week_3_python_week#105)
+---
 
 # Day 1 
 ### 101 Variables 
