@@ -48,6 +48,7 @@
 * exercise
 ### [110 While Loop](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/110_while_loop.py)
 
+
 ---
     Things to remember: List[], tuples(), sets{}
 ___
