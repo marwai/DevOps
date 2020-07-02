@@ -55,7 +55,9 @@ ___
 
 ## Day 2
 
-### Functions
+### [Functions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/111_functions.py)
 * Add, subtract, multiply etc methods 
 * DRY
-* Input function 
+* Input function
+
+    /n new line 
