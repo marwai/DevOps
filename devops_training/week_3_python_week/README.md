@@ -20,7 +20,7 @@
 * Slice
 * Placeholder 
 
-###[104 List](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/104%20_lists.py)
+### [104 List](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/104%20_lists.py)
 * Syntax of list
 * Built-in methods 
     * append 
@@ -28,23 +28,23 @@
     * pop (using built-in method)
     * insert 
 
-###[105 Tuple](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/105_tuples.py)
+### [105 Tuple](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/105_tuples.py)
 * Definition
 * Converting tuples into strings 
 
-###[106 Dictionaries](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/106_dictionaries.py)
+### [106 Dictionaries](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/106_dictionaries.py)
 * key, value pairs
 * recalling, sorted 
 * placeholding dictionaries 
 
-###[107 Control Flow](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/107_control_flow.py)
+### [107 Control Flow](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/107_control_flow.py)
 * if, elif, else, while 
-###[108 Sets](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/108_sets.py)
+### [108 Sets](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/108_sets.py)
 * {}
 * add, discard 
-###[109 Loops](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/109_loops.py)
+### [109 Loops](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/109_loops.py)
 * for loops
-###[110 While Loop](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/110_while_loop.py)
+### [110 While Loop](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/110_while_loop.py)
 
 ---
     Things to remember: List[], tuples(), sets{}
