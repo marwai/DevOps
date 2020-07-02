@@ -5,6 +5,7 @@
 
 # create a basic calculator
 # methods to +,-,/,%
+
 class python_calculator:
     def add(self,num1, num2):
         return num1 + num2
@@ -42,8 +43,7 @@ class python_calculator:
 
     if option == 4:
         print(num1, "/", num2, "=", divide(num1, num2))
-    else:
-        print("invallid")
 
-# create an object of a class
-# run the class
+
+
+
