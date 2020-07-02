@@ -4,7 +4,7 @@
 ---
 
 # Day 1 
-### [101 Variables ](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/101%20variable.py)
+### [101 Variables ](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/101_variable.py)
 * python variables     
 * what is a variable   
 * Types of variable  
