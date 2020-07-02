@@ -2,9 +2,9 @@
 
 # commit naming convention
 
-# x = 9 #   Type of integer
-# y = 9.1 # Type of float
-# name = #  'Marcus' Type of String
+x = 9 #   Type of integer
+y = 9.1 # Type of float
+name = #  'Marcus' Type of String
 
 
 
