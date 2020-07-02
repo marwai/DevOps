@@ -24,8 +24,8 @@
 * Syntax of list
 * Built-in methods 
     * append 
-    * remove
-    * pop
+    * remove (using indexing)
+    * pop (using built-in method)
     * insert 
 
 ### 105 Tuples
@@ -45,6 +45,9 @@
 ### 109 Loops 
 * for loops
 ### 110 While Loops
+
+---
+    Things to remember: List[], tuples(), sets{}
 ___
 
 ## Day 2
