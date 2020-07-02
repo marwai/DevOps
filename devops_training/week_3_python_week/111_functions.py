@@ -58,42 +58,41 @@ def employees():
 
 
 # methods with parameters/arguments
-def add_values():
-    return 4 + 4 # We can return anything- string - int with + operator
-print(add_values())
-
 def add(num1,num2):
     return num1 + num2
-print(addition(5,7)) # calls function
+print(add(5,7)) # calls function
 
 # create a function with two arguments to return a subtraction of 2 values given
 def sub(num1,num2):
     return num1 + num2
-print(subtract(5,7)) # calls function
+print(sub(5,7)) # calls function
 
 # Create a function with two args to return a division of the 2 values given
 def div(num1,num2):
     return num1/num2
-print(division(8,4))
+print(div(8,4))
 
 # Create a function with two args to return a * of the 2 values given
 def mult(num1,num2):
     return num1*num2
-print(multiply(6,6))
+print(mult(6,6))
 
 # Create a function witha  remainder of the 2 values given
 def remainder(num1,num2):
     return num1%num2
 print(remainder(6,6))
 
+
 # Create a function with multiple args
 def multi_args(*multiargs):
-   # print(type(multiargs))
+
     for args in multiargs:
         print(args)
     return args
 print(multi_args(1, 2, 3, 4, 5, 6, 7))
 
+
+# user input
 def user_multiply():
     num_1 = int(input("Choose a number:\n"))
     num_2 = int(input("Choose another number:\n"))

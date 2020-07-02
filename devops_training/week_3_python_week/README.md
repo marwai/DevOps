@@ -59,6 +59,14 @@ ___
 * Add, subtract, multiply etc methods 
 * DRY
 * Input function
+
+### Maths functions
+* Converting cm to inches
+### OOP Classes
+
+### OOP Example
+
+###
 ---
 #### ``` Things to remember:```  ```/n new line ```
 
