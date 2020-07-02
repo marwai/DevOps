@@ -5,17 +5,17 @@ greeting_welcome = "Hello World"
 welcome_user = input("Please enter your name? ")
 print("Dear " + welcome_user + " welcome on board") #Concatenation
 print(greeting_welcome)
-HELLO WORLD
-012345678910
+# HELLO WORLD
+# 012345678910
 print(len(greeting_welcome))
 print("Hi {}, welcome to Python".format(welcome_user))
 
 # indexing
-String slicing
+# String slicing
 hi = "Hello world"
 print(len(hi)) # prints length of string
 print(hi[0]) # print h because it starts on 0
-print(hi[-1]) 0 prints d
+print(hi[-1]) 0 # prints d
 #
 print(hi[0:6]) # print hello
 print(hi[6:11]) # print world

@@ -1,7 +1,6 @@
 class Animals:
-    def __init(self, motability, heterotrophy, nervous_system, tissue, alive):
+    def __init(self, motability, heterotrophy,  tissue, alive):
         self.tissue = tissue
-        self.nervous_system = nervous_system
         self.motability = motability
         self.heterotrophy = heterotrophy
         self.alive = alive
@@ -18,5 +17,3 @@ class Animals:
     def alive(self):
         self.alive = "Animal is alive"
 
-    def nervous_system(self):
-        self.nervous_system() = "nervous system is working "

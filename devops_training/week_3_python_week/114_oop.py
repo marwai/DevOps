@@ -60,9 +60,9 @@ thor = Cat("thor", "white", mood="mad", hunger="starving", sleepy=True, species=
 zeus = Dog("zeus", "black", mood="sad", hunger="hungry", sleepy=True, species=Dog.species)
 
 thor.check_status()
-thor.feed()
-thor.check_status()
-thor.meow()
+# thor.feed()
+# thor.check_status()
+# thor.meow()
 # zeus.check_status()
 # thor.feed()
 # zeus.feed()
@@ -72,8 +72,8 @@ thor.meow()
 # zeus.check_status()
 
 
-chowchow = Dog1("chowchow", "brown")
-chowchow.printname()
+# chowchow = Dog1("chowchow", "brown")
+# chowchow.printname()
 
 
 #code

@@ -65,7 +65,6 @@ Operators
 AND, OR, NAND XOR
 """
 
-"""
-If,Else and Elif
+# If,Else and Elif
 
 

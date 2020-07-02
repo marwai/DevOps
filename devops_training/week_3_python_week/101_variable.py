@@ -4,13 +4,13 @@
 
 x = 9 #   Type of integer
 y = 9.1 # Type of float
-name = #  'Marcus' Type of String
+name = "marcus" #  'Marcus' Type of String
 
 
 
 print(name)
-print(age)
-a = x + yprint(x)
+
+a = x + y # print(x)
 age = 23
 NHS = 12456789
 name = input("Please enter your name")
@@ -48,12 +48,12 @@ def information():
     print(details)
 information()
 
-Additional Work
+# Additional Work
 def information():
     first_name = input("What is your name?")
     if first_name == "Marcus":
         print(first_name,"Learning python is fun!")
-    elif first_name == Marwai:
+    elif first_name == "Marwai":
         print("Hey", first_name, "welcome to the league of python!")
     else:
         print("You should learn python, {}!".format(first_name))
