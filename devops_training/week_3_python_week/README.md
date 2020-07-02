@@ -39,13 +39,13 @@
 
 ### [107 Control Flow](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/107_control_flow.py)
 * if, elif, else, while 
-* exercise
+*  **exercise**
 ### [108 Sets](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/108_sets.py)
 * {}
 * add, discard 
 ### [109 Loops](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/109_loops.py)
 * for loops
-* exercise
+* **exercise**
 ### [110 While Loop](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/110_while_loop.py)
 
 
