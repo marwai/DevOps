@@ -62,22 +62,22 @@ def add_values():
     return 4 + 4 # We can return anything- string - int with + operator
 print(add_values())
 
-def addition(num1,num2):
+def add(num1,num2):
     return num1 + num2
 print(addition(5,7)) # calls function
 
 # create a function with two arguments to return a subtraction of 2 values given
-def subtract(num1,num2):
+def sub(num1,num2):
     return num1 + num2
 print(subtract(5,7)) # calls function
 
 # Create a function with two args to return a division of the 2 values given
-def division(num1,num2):
+def div(num1,num2):
     return num1/num2
 print(division(8,4))
 
 # Create a function with two args to return a * of the 2 values given
-def multiply(num1,num2):
+def mult(num1,num2):
     return num1*num2
 print(multiply(6,6))
 
