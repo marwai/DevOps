@@ -60,6 +60,6 @@ ___
 * DRY
 * Input function
 ---
-#### ``` Things to remember```  ```/n new line ```
+#### ``` Things to remember:```  ```/n new line ```
 
 ---
