@@ -14,7 +14,7 @@ class Animal:
         self.sleepy = sleepy
         self.species = species
 
-    # this initialises the characteristics of the animal
+    # this initialises the characteristics of the kingdom
     def feed(self):
         self.hunger = "full" # changes the object to full
 
