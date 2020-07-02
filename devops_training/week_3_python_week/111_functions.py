@@ -6,54 +6,54 @@
 # DRY - Do not repeat yourself
 
 # Syntax:- def name of the function with () and :
-def greeting():
-    return "Hello world"
-    # pass - to skip the function
-
-
-# Calling a function
-print(greeting())
-# very example of creating a function and calling it with return statement to display string message
-
-def test():
-    pass # skip the method to prevent errors
-
-# Examples
-def movies():
-    age = int(input("What is your age? "))
-    if age >= 21:
-        print("Wow you're {} you can go to Las Vegas".format(age))
-    elif 21 > age >= 18:
-        print("{} year olds can watch all films".format(age))
-    elif 18 > age >= 15:
-        print("{} years olds can watch films rated 15 and below".format(age))
-    elif 15 > age >= 12:
-        print("{} year olds can watch films rated with 12A with an adult and any films below unaccompanied".format(age))
-    else:
-        print("{} year olds can watch U films".format(age))
-# movies() # calls the function
-
-def information():
-    pass
-    first_name = input("What is your name? ")
-    last_name = input("What is your last name? ")
-    age = input("What is your age? ")
-    address = input("What is your address? ")
-    full_name = (first_name + " " + last_name)
-    details = (full_name + " " + age + " " + address)
-    print(details)
+# def greeting():
+#     return "Hello world"
+#     # pass - to skip the function
+#
+#
+# # Calling a function
+# print(greeting())
+# # very example of creating a function and calling it with return statement to display string message
+#
+# def test():
+#     pass # skip the method to prevent errors
+#
+# # Examples
+# def movies():
+#     age = int(input("What is your age? "))
+#     if age >= 21:
+#         print("Wow you're {} you can go to Las Vegas".format(age))
+#     elif 21 > age >= 18:
+#         print("{} year olds can watch all films".format(age))
+#     elif 18 > age >= 15:
+#         print("{} years olds can watch films rated 15 and below".format(age))
+#     elif 15 > age >= 12:
+#         print("{} year olds can watch films rated with 12A with an adult and any films below unaccompanied".format(age))
+#     else:
+#         print("{} year olds can watch U films".format(age))
+# # movies() # calls the function
+#
+# def information():
+#     pass
+#     first_name = input("What is your name? ")
+#     last_name = input("What is your last name? ")
+#     age = input("What is your age? ")
+#     address = input("What is your address? ")
+#     full_name = (first_name + " " + last_name)
+#     details = (full_name + " " + age + " " + address)
+#     print(details)
 
 # information()
 
-def employees():
-    employee_records = {"Name": "Marcus",
-                        "Role": "DevOps",
-                        "Spartan_ID": 12342,
-                        "Skills": ["SQL", "Python", "GitHub"],
-                        "comments": "Enjoys longboarding"
-                        }
-    for key, value in employee_records.items():
-        print(key, ":", value)
+# def employees():
+#     employee_records = {"Name": "Marcus",
+#                         "Role": "DevOps",
+#                         "Spartan_ID": 12342,
+#                         "Skills": ["SQL", "Python", "GitHub"],
+#                         "comments": "Enjoys longboarding"
+#                         }
+#     for key, value in employee_records.items():
+#         print(key, ":", value)
 # employees()
 
 
@@ -84,18 +84,18 @@ print(remainder(6,6))
 
 
 # Create a function with multiple args
-def multi_args(*multiargs):
-
-    for args in multiargs:
-        print(args)
-    return args
-print(multi_args(1, 2, 3, 4, 5, 6, 7))
-
-
-# user input
-def user_multiply():
-    num_1 = int(input("Choose a number:\n"))
-    num_2 = int(input("Choose another number:\n"))
-    print("The product of your chosen numbers is: ")
-    return num_1 * num_2
-print(user_multiply())
+# def multi_args(*multiargs):
+#
+#     for args in multiargs:
+#         print(args)
+#     return args
+# print(multi_args(1, 2, 3, 4, 5, 6, 7))
+#
+#
+# # user input
+# def user_multiply():
+#     num_1 = int(input("Choose a number:\n"))
+#     num_2 = int(input("Choose another number:\n"))
+#     print("The product of your chosen numbers is: ")
+#     return num_1 * num_2
+# print(user_multiply())
