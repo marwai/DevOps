@@ -1,20 +1,24 @@
+[DAY 1]
+[DAY 2]
+
+
 # Day 1 
-### 101
+### 101 Variables 
 * python variables     
 * what is a variable   
 * Types of variable  
 
-### 102
+### 102 Data Types
 * Data types and operators
 * Boolean 
 * Double quotes and single quotes
 
-### 103
+### 103 Strings
 * Concat
 * Index
 * Slice
 
-### 104
+### 104 Lists
 * Syntax of list
 * Built-in methods 
     * append 
@@ -22,9 +26,20 @@
     * pop
     * insert 
 
-### 105
+### 105 Tuples
 * Definition
 * Converting tuples into strings 
-```python
-```
+
+### 106 Dictionaries 
+*
+
+### 107 Control Flow
+
+### 108 Sets
+
+### 109 Loops 
+
+### 110 While Loops
 ___
+
+## Day 2
