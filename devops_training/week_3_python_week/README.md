@@ -55,18 +55,22 @@ ___
 
 ## Day 2
 
-### [Functions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/111_functions.py)
+### [111 Functions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/111_functions.py)
 * Add, subtract, multiply etc methods 
 * DRY
 * Input function
 
-### Maths functions
+### [112 Maths functions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/112_math_functions.py)
 * Converting cm to inches
-### OOP Classes
 
-### OOP Example
-
-###
+### [113 OOP Classes](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/113_oop_classes.py)
+*
+### [114 OOP Example](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/114_OOP.py)
+*
+### [115](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/115.py)
+*
+### [116 definitions](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/116_read.md)
+*
 ---
 #### ``` Things to remember:```  ```/n new line ```
 
