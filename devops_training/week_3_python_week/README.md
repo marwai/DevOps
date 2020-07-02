@@ -18,6 +18,7 @@
 * Concat
 * Index
 * Slice
+* Placeholder 
 
 ### 104 Lists
 * Syntax of list
@@ -32,14 +33,17 @@
 * Converting tuples into strings 
 
 ### 106 Dictionaries 
-*
+* key, value pairs
+* recalling, sorted 
+* placeholding dictionaries 
 
 ### 107 Control Flow
-
+* if, elif, else, while 
 ### 108 Sets
-
+* {}
+* add, discard 
 ### 109 Loops 
-
+* for loops
 ### 110 While Loops
 ___
 
