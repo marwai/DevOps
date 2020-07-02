@@ -55,7 +55,6 @@ def information():
     details = (full_name + " " + age + " " + address)
     print(details)
 information()
-
 # Additional Work
 # def information():
 #     first_name = input("What is your name?")
