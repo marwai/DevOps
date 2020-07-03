@@ -1,8 +1,11 @@
 from animal import Animals
 
 class Panda(Animals):
+    # Initialisation starts the class using (init)
     def __init__(self, name, mood, size, appetite, alive, speed, awake, fat, bamboo,activity,lazy = True):
+        # super().__ inherits the attributes and methods of the parents
         super().__init__(name, mood, size, appetite, alive, speed, awake,fat)
+        # attributes that only pandas correspond to
         self.fat = fat
         self.bamboo = bamboo
         self.activity = activity
@@ -22,7 +25,7 @@ class Panda(Animals):
         self.awake = "awake"
 
 
-
+    # climbing
     def climb(self):
         if self.lazy == True:
             self.activity = "on the ground"

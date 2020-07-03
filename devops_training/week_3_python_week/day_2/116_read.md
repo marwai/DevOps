@@ -4,8 +4,10 @@ when using methods in our code
 
 def bark(self):
     return "woof"
-
+modelling class 
 print(fido.bark())
+
+when you want to hide the complexity so the simplicity on the surface is simple in the child class
 ```
 
 ### Inheritance
@@ -33,3 +35,9 @@ the classes
 Making variables or methods private to hide various aspects of a class from  a user
 
 def __sleep():
+```
+### Definitions
+* Instansiation and initialisation
+```
+When you instantiate a class or object, you're creating a new instance of it, or allocating memory to "hold" one. 
+Initializing that object would be the instructions that are performed during instantiation

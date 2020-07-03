@@ -1,3 +1,4 @@
+# Parent Class
 class Function:
     def __init__(self, add, sub, div, mult, remainder):
         # Attributes (variables in a class)
@@ -6,6 +7,7 @@ class Function:
         self.div = div
         self.mult = mult
         self.remainder = remainder
+
     def add(num1, num2):
         return num1 + num2
 
