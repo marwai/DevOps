@@ -11,16 +11,17 @@ class Animals:
         self.awake = awake
     # characterstics of an Animal
     # methods are defined (functions in a class)
+    # f"{}" format variables
     def time(self):
         self.size = "big"
         print(f"A year has passed {self.name} has gotten bigger!\n")
-
+    # eats leaves
     def leaves(self):
         self.appetite = "satisfied"
         print(f" {self.name} ate some leaves is feeling {self.appetite}\n")
 
     def fatigue(self):
-        self.awake = False
+        self.awake = "tired"
         print(f"Go to sleep {self.name} you must be very tired!\n")
 
     def death(self):
@@ -36,5 +37,8 @@ class Animals:
             print(f"{self.name} fatigue level:", self.awake)
             print(f"{self.name} bamboo levels:", self.bamboo)
             print(f"{self.name} fat levels:", self.fat)
+            print(f"{self.name} is currently:", self.activity)
+            print(f"{self.name} is lazy:", self.lazy)
+
 
         return
