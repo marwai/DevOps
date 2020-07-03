@@ -44,7 +44,7 @@
 # imports the function class
 # from (file) import(objects/functions)
 
-from 111_functions import *
+from functions import *
 
 
 class python_calculator:
@@ -58,19 +58,19 @@ class python_calculator:
 
     # if operator is +
     if user_input == "+":
-        print(str(num1) + " Plus " + str(num2) + " equals: ",  111_functions.add(num1, num2))
+        print(str(num1) + " Plus " + str(num2) + " equals: ",  functions.add(num1, num2))
     # if operator is -
     elif user_input == "-":
-        print(str(num1) + " Minus " + str(num2) + " equals: ", 111_functions.sub(num1, num2))
+        print(str(num1) + " Minus " + str(num2) + " equals: ", functions.sub(num1, num2))
     # if operator is *
     elif user_input == "*":
-        print(str(num1) + " Times " + str(num2) + " equals: ", 111_functions.multi(num1, num2))
+        print(str(num1) + " Times " + str(num2) + " equals: ", functions.multi(num1, num2))
     # if operator is /
     elif user_input == "/":
-        print(str(num1) + " Divide " + str(num2) + " equals: ", 111_functions.div(num1, num2))
+        print(str(num1) + " Divide " + str(num2) + " equals: ", functions.div(num1, num2))
     # if operator is %
     elif user_input == "%":
-        print(str(num1) + " Mod " + str(num2) + " equals: ", 111_functions.remainder(num1, num2))
+        print(str(num1) + " Mod " + str(num2) + " equals: ", functions.remainder(num1, num2))
     # if operator is unknown
     else:
         print("You have entered an unknown value")
