@@ -4,7 +4,7 @@ class Animals:
         # Attributes (variables in a class)
         self.name = name
         self.mood = mood
-        self.size = size
+        self.__size = size
         self.appetite = appetite
         self.alive = True
         self.speed = speed
@@ -12,9 +12,16 @@ class Animals:
     # characterstics of an Animal
     # methods are defined (functions in a class)
     # f"{}" format variables
+
     def time(self):
         self.size = "big"
         print(f"A year has passed {self.name} has gotten bigger!\n")
+
+    def get_size(self):
+        return self.__speed
+
+    def set_size(self,value):
+        self.__size = value
 
     # eats leaves
     def leaves(self):
@@ -33,7 +40,7 @@ class Animals:
     def check_status(self):
         if self.alive == True:
             print(f"{self.name}'s mood:", self.mood)
-            print(f"{self.name} current size:", self.size)
+            print(f"{self.name} current size:", self.__size)
             print(f"Hunger levels of {self.name}'s:", self.appetite)
             print(f"{self.name} speed:", self.speed)
             print(f"{self.name} fatigue level:", self.awake)

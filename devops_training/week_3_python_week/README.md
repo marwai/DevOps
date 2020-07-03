@@ -78,6 +78,8 @@ ___
     * Polymorphism
     * Inheritance
     * Abstraction
+### [Homework](https://github.com/marwai/DevOps/tree/master/devops_training/week_3_python_week/animal_files)
+    
 ---
 #### ``` Things to remember:```  ```/n new line, .super()```
 

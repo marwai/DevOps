@@ -1,8 +1,8 @@
 from animal import Animals
 
 class Panda(Animals):
-    def __init__(self, name, mood, age, appetite, alive, speed, awake, fat, bamboo,activity,lazy = True):
-        super().__init__(name, mood, age, appetite, alive, speed, awake,fat)
+    def __init__(self, name, mood, size, appetite, alive, speed, awake, fat, bamboo,activity,lazy = True):
+        super().__init__(name, mood, size, appetite, alive, speed, awake,fat)
         self.fat = fat
         self.bamboo = bamboo
         self.activity = activity
@@ -30,7 +30,7 @@ class Panda(Animals):
             self.activity = "climbing a tree"
 
 # panda panda's name chewy has been set, with set values)
-chewy = Panda(name = "chewy", mood = "content",age = "small", appetite = "low", activity= "sitting around",
+chewy = Panda(name = "chewy", mood = "content", size = "small", appetite = "low", activity= "sitting around",
               speed = "slow", awake = "tired", fat = "low fat", bamboo = "high reserves", alive = "alive" )
 
 # chewy.time()
@@ -38,5 +38,11 @@ chewy = Panda(name = "chewy", mood = "content",age = "small", appetite = "low", 
 # chewy.fatigue()
 # chewy.night()
 # chewy.bamboo_sticks()
-# # chewy.death()
-# chewy.check_status()
+# chewy.death()
+chewy.check_status()
+
+# Encapsulation
+# chewy.__size() = 30
+chewy.set_size(30) # only these variables can be printed and not edited due to __
+print(chewy.set_size(30))
+# print(chewy.__size())
