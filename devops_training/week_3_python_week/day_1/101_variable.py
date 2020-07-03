@@ -27,8 +27,7 @@ print( x + name ) # You cannot add together data types of string and int
 
 print(str(x) + name) # You must convert the INT into a string using the str() function. This is known as casting.
 
-# A Python variable is a reserved memory location to store values.
-# In other words, a variable in a python program gives data to the computer for processing
+
 
 # Exercise
 # Create a variable called first_name, last_name
