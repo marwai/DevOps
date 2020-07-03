@@ -59,7 +59,7 @@ class Cat(Animal):
 thor = Cat("thor", "white", mood="mad", hunger="starving", sleepy=True, species=Cat.species)
 zeus = Dog("zeus", "black", mood="sad", hunger="hungry", sleepy=True, species=Dog.species)
 
-thor.check_status()
+#thor.check_status()
 # thor.feed()
 # thor.check_status()
 # thor.meow()
