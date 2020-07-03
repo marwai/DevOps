@@ -2,7 +2,7 @@ from animal import Animals
 
 class Panda(Animals):
     def __init__(self, name, mood, age, appetite, alive, speed, awake, fat, bamboo,activity,lazy = True):
-        super().__init__(name, mood, age, appetite, alive, speed, awake)
+        super().__init__(name, mood, age, appetite, alive, speed, awake,fat)
         self.fat = fat
         self.bamboo = bamboo
         self.activity = activity

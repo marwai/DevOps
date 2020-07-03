@@ -1,6 +1,6 @@
 # Parent class
 class Animals:
-    def __init__(self, name, mood, size, appetite, alive, speed, awake):
+    def __init__(self, name, mood, size, appetite, alive, speed, awake,fat):
         # Attributes (variables in a class)
         self.name = name
         self.mood = mood
@@ -15,9 +15,11 @@ class Animals:
     def time(self):
         self.size = "big"
         print(f"A year has passed {self.name} has gotten bigger!\n")
+
     # eats leaves
     def leaves(self):
-        self.appetite = "satisfied"
+        self.appetite = "satisfied"#
+        self.fat = "moderate"
         print(f" {self.name} ate some leaves is feeling {self.appetite}\n")
 
     def fatigue(self):
