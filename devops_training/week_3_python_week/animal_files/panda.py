@@ -39,10 +39,10 @@ chewy = Panda(name = "chewy", mood = "content", size = "small", appetite = "low"
 # chewy.night()
 # chewy.bamboo_sticks()
 # chewy.death()
-chewy.check_status()
+# chewy.check_status()
 
 # Encapsulation
 # chewy.__size() = 30
-chewy.set_size(30) # only these variables can be printed and not edited due to __
-print(chewy.set_size(30))
+# chewy.set_size(30) # only these variables can be printed and not edited due to __
+# print(chewy.set_size(30))
 # print(chewy.__size())
