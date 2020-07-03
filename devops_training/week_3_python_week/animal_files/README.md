@@ -9,16 +9,3 @@ inherits all the funcitionalaties of snake, snake inherits reptile and so on, Th
 
 Encapsulation is important to prevent variables from being changed by setting them as private or protected.
 To make a class private dunder (double underscore) is used.
-```
-
-## Polymorphism
-``` bash
-When a new object is created, it inherits as well as overrides particular attributes or behaviour without affecting 
-the classes 
-
-```
-## Encapsulation 
-``` bash 
-Making variables or methods private to hide various aspects of a class from  a user
-
-def __sleep():
