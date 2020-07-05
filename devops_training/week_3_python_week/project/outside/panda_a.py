@@ -1,4 +1,4 @@
-from animals import *
+from outside.animals import *
 
 class Panda(Animals):
     def __init__(self, name, health, strength, intelligence, speed, agility,alive):
