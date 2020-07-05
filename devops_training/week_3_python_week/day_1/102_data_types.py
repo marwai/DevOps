@@ -1,7 +1,7 @@
 #   Data types, operators and boolean
 x = 10
 y = 11
-# Boolean function
+# Boolean Main
 print(x==y) # checking values equate one another as Boolean
 print(x != y) # checking value does not eqate one another as Boolean
 print(x<y)

@@ -1,19 +1,19 @@
 # Functions
 
-# Why use a function?
+# Why use a Main?
 # What is the benefit - REUSABILITY OF CODE
-# What function have you used?
+# What Main have you used?
 # DRY - Do not repeat yourself
 
-# Syntax:- def name of the function with () and :
+# Syntax:- def name of the Main with () and :
 # def greeting():
 #     return "Hello world"
-#     # pass - to skip the function
+#     # pass - to skip the Main
 #
 #
-# # Calling a function
+# # Calling a Main
 # print(greeting())
-# # very example of creating a function and calling it with return statement to display string message
+# # very example of creating a Main and calling it with return statement to display string message
 #
 # def test():
 #     pass # skip the method to prevent errors
@@ -31,7 +31,7 @@
 #         print("{} year olds can watch films rated with 12A with an adult and any films below unaccompanied".format(age))
 #     else:
 #         print("{} year olds can watch U films".format(age))
-# # movies() # calls the function
+# # movies() # calls the Main
 #
 # def information():
 #     pass
@@ -60,30 +60,30 @@
 # methods with parameters/arguments
 def add(num1,num2):
     return num1 + num2
-print(add(5,7)) # calls function
+print(add(5,7)) # calls Main
 
-# create a function with two arguments to return a subtraction of 2 values given
+# create a Main with two arguments to return a subtraction of 2 values given
 def sub(num1,num2):
     return num1 + num2
-print(sub(5,7)) # calls function
+print(sub(5,7)) # calls Main
 
-# Create a function with two args to return a division of the 2 values given
+# Create a Main with two args to return a division of the 2 values given
 def div(num1,num2):
     return num1/num2
 print(div(8,4))
 
-# Create a function with two args to return a * of the 2 values given
+# Create a Main with two args to return a * of the 2 values given
 def mult(num1,num2):
     return num1*num2
 print(mult(6,6))
 
-# Create a function witha  remainder of the 2 values given
+# Create a Main witha  remainder of the 2 values given
 def remainder(num1,num2):
     return num1%num2
 print(remainder(6,6))
 
 
-# Create a function with multiple args
+# Create a Main with multiple args
 # def multi_args(*multiargs):
 #
 #     for args in multiargs:

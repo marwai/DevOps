@@ -1,5 +1,5 @@
-import function
-class python_calculator:
+from function import Function
+class python_calculator(Function):
     def __init__(self, add, sub, div, mult, remainder, num1,num2, user_input):
         super().__init__(add, sub, div, mult, remainder)
         self.num1 = int(num1)
@@ -13,7 +13,7 @@ class python_calculator:
     user_input = input("Please input what you want to do: + - * / %")
     # if operator is +
     if user_input == "+":
-        print(str(num1) + " Plus " + str(num2) + " equals: ",  function.add(num1, num2))
+        print(function.add(num1, num2))
     # if operator is -
     elif user_input == "-":
         print(str(num1) + " Minus " + str(num2) + " equals: ", function.sub(num1, num2))

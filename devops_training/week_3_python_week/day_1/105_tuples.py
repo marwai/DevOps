@@ -9,7 +9,7 @@ date_of_birth = ("Name", "dob", "passport number")
 
 #Exercise
 
-# convert the tuple into string uses list() function
+# convert the tuple into string uses list() Main
 date_of_birth_list = list(date_of_birth)
 print(date_of_birth_list)
 

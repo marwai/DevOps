@@ -25,7 +25,7 @@ print(type(name)) # Returns the type of data in this case it is a string
 
 print( x + name ) # You cannot add together data types of string and int
 
-print(str(x) + name) # You must convert the INT into a string using the str() function. This is known as casting.
+print(str(x) + name) # You must convert the INT into a string using the str() Main. This is known as casting.
 
 
 

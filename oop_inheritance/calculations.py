@@ -1,4 +1,3 @@
-# Parent Class
 class Function:
     def __init__(self, add, sub, div, mult, remainder):
         # Attributes (variables in a class)
@@ -8,6 +7,7 @@ class Function:
         self.mult = mult
         self.remainder = remainder
 
+
     def add(num1, num2):
         return num1 + num2
 
@@ -15,7 +15,7 @@ class Function:
 
     # create a Main with two arguments to return a subtraction of 2 values given
     def sub(num1, num2):
-        return num1 + num2
+        return num1 - num2
 
      # calls Main
 
@@ -23,7 +23,7 @@ class Function:
     def div(num1, num2):
         return num1 / num2
 
-    print(div(8, 4))
+
 
     # Create a Main with two args to return a * of the 2 values given
     def mult(num1, num2):
@@ -33,4 +33,22 @@ class Function:
     # Create a Main witha  remainder of the 2 values given
     def remainder(num1, num2):
         return num1 % num2
+
+    def conversion():
+        user = str(input("Do you want to convert to inches or cm?: \n"))
+        num1 = int(input("What's the number? \n"))
+        if user == "inches":
+            conversion = num1 / 2.54
+            return conversion
+        elif user == "cm":
+            conversion = num1 * 2.54
+            return conversion
+        else:
+            return "please try again"
+
+    class Area:
+        @staticmethod
+        def area(num1, num2):
+            return 0.5 * num1 * num2
+
 

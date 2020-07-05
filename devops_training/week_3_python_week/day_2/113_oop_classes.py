@@ -41,7 +41,7 @@
 #         print(num1, "/", num2, "=", divide(num1, num2))
 
 # Another Method
-# imports the function class
+# imports the Main class
 # from (file) import(objects/functions)
 
 from 111_functions import *
