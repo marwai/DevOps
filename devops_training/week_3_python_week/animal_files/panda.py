@@ -17,7 +17,7 @@ class Panda(Animals):
         self.speed = "fast"
         self.appetite = "full"
         self.fat = "FAT"
-        self.lazy = "False"
+        self.lazy = False
         print(f"{self.name} is now fat but is {self.speed}\n")
 
     # pandas are nocturnal so will be awake at night
@@ -35,14 +35,16 @@ class Panda(Animals):
 # panda panda's name chewy has been set, with set values)
 chewy = Panda(name = "chewy", mood = "content", size = "small", appetite = "low", activity= "sitting around",
               speed = "slow", awake = "tired", fat = "low fat", bamboo = "high reserves", alive = "alive" )
-
+chewy.check_status()
+#
 # chewy.time()
-# chewy.leaves()
+# chewy.check_status()
+
+
 # chewy.fatigue()
 # chewy.night()
 # chewy.bamboo_sticks()
 # chewy.death()
-# chewy.check_status()
 
 # Encapsulation
 # chewy.__size() = 30

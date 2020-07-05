@@ -23,7 +23,7 @@ class Animals:
     #   set panda size (abstraction)
 
     def set_size(self,value):
-        self.__size = value
+        self.size = value
 
     # eats leaves
     def leaves(self):
