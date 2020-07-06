@@ -2,13 +2,16 @@
 class DNA:
 
     def dna_count():
+        # input length of specific DNA sample
         number = input("Enter your DNA sample here:\n")
+        # Concatenate he string and counts the number of times A,C,G,T appear
         print("Adenine: " + str(number.count("A")),"\nCystosine: "+ str(number.count("C")),
               "\nGuanine: " + str(number.count("G")), "\nThymine: " + str(number.count("T")))
 
-
+# recalls the dna_count behaviour in the DNA class
 DNA.dna_count()
-Result Adenine: 17 Cystosine: 11 Guanine: 16 Thymine: 21
+
+# Result Adenine: 17 Cystosine: 11 Guanine: 16 Thymine: 21
 
 # # Method 2
 def DNA_two(dna_code):
