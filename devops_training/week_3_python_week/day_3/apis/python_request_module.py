@@ -1,7 +1,7 @@
 # Application Programme Interface
 # WHat is it?
 # Why Use is
-# in python we have a module called request to interact with web-apis
+# in python we have a module called request to interact with web-oop_with_apis
 # To install: pip install requests
 
 # import requests
