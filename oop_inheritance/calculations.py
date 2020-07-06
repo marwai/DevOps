@@ -7,13 +7,12 @@ class Function:
         self.mult = mult
         self.remainder = remainder
 
-
+    # Behaviours (methods) are defined in a class
     def add(num1, num2):
         return num1 + num2
 
-     # calls Main
 
-    # create a Main with two arguments to return a subtraction of 2 values given
+    # create a behaviour with two arguments to return a subtraction of 2 values given
     def sub(num1, num2):
         return num1 - num2
 
@@ -39,16 +38,14 @@ class Function:
         num1 = int(input("What's the number? \n"))
         if user == "inches":
             conversion = num1 / 2.54
-            return conversion
+            print(conversion)
         elif user == "cm":
             conversion = num1 * 2.54
-            return conversion
+            print(conversion)
         else:
             return "please try again"
 
-    class Area:
-        @staticmethod
-        def area(num1, num2):
-            return 0.5 * num1 * num2
+    def area(num1, num2):
+        return 0.5 * num1 * num2
 
 

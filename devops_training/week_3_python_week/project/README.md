@@ -63,10 +63,10 @@ ___
 ## Polymorphism
 
 #### Class Polymorphism
-* **Polymorphism** uses methods from another class to perform different tasks
+* *Polymorphism** uses methods from another class to perform different tasks
 * Polymorphism performs a single action in different ways. It is evident in data overriding in: **operators** , 
 **methods** and **classes**
-* Polymorphism means "many forms"
+* Polymorphism means* "many forms"
 
 ```
 class Cat:
@@ -158,6 +158,12 @@ The ```fact()``` method for ```a(Square)``` is overridden. Whereas object ```b``
 ___
 
 ### Abstraction
+* Process of hiding the real implementation of an application from the user and emphasising only the usage of it. For example, 
+consider a electronic gadget with instruction of the application. The user guide has instructions on how to use the gadget 
+but but no information regarding the internal working of the gadget
+* A programmer can hide all the irrelevant data/processes of an application to reduce complexity and increase efficiency
+* An abstract class cannot be instantiated, i.e.,objects cannot be created for the abstract class.
+
 
 ___
 

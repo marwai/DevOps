@@ -40,7 +40,7 @@ chewy.check_status()
 # chewy.time()
 # chewy.check_status()
 
-
+chewy.leaves()
 # chewy.fatigue()
 # chewy.night()
 # chewy.bamboo_sticks()
