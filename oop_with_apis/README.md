@@ -18,4 +18,8 @@ null
 
 ```bash
 {"Name" : "Marcus"}
+# decoding is reading 
+# encoding is writing 
 ```
+# API calls to web browser 
+![" "]
