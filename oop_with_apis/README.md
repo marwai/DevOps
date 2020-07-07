@@ -3,14 +3,34 @@
 ### where and how? -  between a browser and server
 
 - The data can only be text - hence json is text written in json format
-```bash
+bash
+HTTP request structure 
+
 - Data Types
-a string
-a number
-an object (json object) 
-an array 
+    - a string - text 
+    - a number
+    - an object (json object) 
+    - an array
+    - dictionary 
 a boolean 
 null
+
+## Pyton requests API interaction
+### HTTP request structure     
+- xml 
+- html 
+- javascript 
+- json response 
+- HTTP response 
+
+## HTTP Response
+- response codes: 404, 400
+- header in key,value pairs
+- Data in the body:
+    - body 
+    - text 
+    - json  
+    - xml
 ```
 
 - Where does this syntax derive from Javascript?
@@ -21,5 +41,8 @@ null
 # decoding is reading 
 # encoding is writing 
 ```
+## definitions 
+* load - convert jsonto pytho file
+* dump - convert python to json 
 # API calls to web browser 
 ![" "]
