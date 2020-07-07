@@ -41,8 +41,11 @@ null
 # decoding is reading 
 # encoding is writing 
 ```
-## definitions 
-* load - convert jsonto pytho file
-* dump - convert python to json 
+## Definitions 
+* **```Load```** - convert jsonto pytho file
+* **```Dump```** - convert python to json 
+* **```Dumps()```** python dictionaries to json string - use type() to confirm
+* **```CRUD```** - Create Read Update Delete
+
 # API calls to web browser 
 ![" "]
