@@ -6,13 +6,13 @@
 
 from textfile import Text_File_Handling
 
-file_path = "order.txt"
+file_path = "modified.txt"
 
 text_file_object = Text_File_Handling(file_path)
 
-print(text_file_object.read_text_file())
-
-text_file_object.write_text_file();
+# print(text_file_object.read_text_file())
+#
+# text_file_object.write_text_file();
 
 # print(text_file_object.write_text_file())
 
@@ -34,4 +34,4 @@ text_file_object.write_text_file();
 # print(text_file_object.write_text_file())
 # print(text_file_object.read_text_using_with())
 # print(text_file_object.write_text_file_using_with())
-text_file_object.playin_with_python_os_module()
+text_file_object.playing_with_exception()

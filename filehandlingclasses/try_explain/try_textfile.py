@@ -88,6 +88,7 @@ class Text_File_Handling:
         os.chdir("C:/Users/marcu/PycharmProjects/devops/filehandlingclasses")
         print(os.getcwd())
 
+
     def playing_with_exception(self):
         try:
             file = open(self.file_path, "r")
@@ -96,6 +97,7 @@ class Text_File_Handling:
             print("File is not present")
         else:
             self.text_storage = file.readline()
+            self.text_storage = file.reading()
             file.close()
         finally:
             print("Will run for sure!!")
