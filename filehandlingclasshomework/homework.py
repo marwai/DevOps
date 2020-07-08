@@ -2,7 +2,9 @@
 # After that write that text to a file and then read from this file to  write to another file simultaneously
 # 2. Reading an image to  writing to another file simultaneously
 
-import cv2
+import os
+from PIL import Image
+
 
 class User_Input:
     # initialise the class
@@ -12,7 +14,7 @@ class User_Input:
     def user_input(self):
         # user input attribute
 
-        # when the condition runs true, the loop conitnues to run
+        # when the condition runs true, the loop continues to run
         while True:
             # if the name is more than 0 characters
             try:
@@ -31,8 +33,27 @@ class User_Input:
                     print(f"Hello {self.name}")
                     return self.name
                 # else: # COMMENT
-                #     print("Please try again\n") #COMMENT
-
+                    # print("Please try again\n") #COMMENT
+        # method two shorthand
+        # while True:
+        #     try:
+        #         stored_user = str(input(("Please enter the text\n")))
+        #         # If statement to say if the character length is less than 0
+        #         if (len(stored_user)) == 0:
+        #             raise Exception
+        #     except Exception:
+        #         print("We do not accept empty texts")
+        #     else:
+        #         # Opening the homework.txt file just created. using w+ to read and write.
+        #         with open("testhomework.txt", "w+") as file:
+        #             # Writing the user input into the file
+        #             file.write(stored_user)
+        #             self.new_text = str(file.read())  # This stores a new self
+        #             print("Thank you for entering your name: ", stored_user)
+        #             with open("testhomework2.txt", "w+") as file2:
+        #                 file2.write(stored_user)
+        #                 self.new_text = str(file.read())
+        #                 return self.user_name
 
 
 
@@ -50,10 +71,14 @@ class User_Input:
         with open("user_name_two.txt", "w+") as file:
             file.write(self.new_text)
 
-
+    def read_image(self):
+        with open('tree.JPG', 'r') as i, open('tree.JPG', 'w+') as ii:
+            ii.write(i.read())
+            Image.open('tree.JPG').show()
 
 
 object1 = User_Input()
+# object1.again()
 object1.again()
 
 
