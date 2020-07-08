@@ -1,0 +1,19 @@
+# Goal
+# 1. Reading form and writing to files
+# 2. Exception and handling
+# 3. CSV
+# 4. Assignments
+from textfile import Text_File_Handling
+file_path = "order.txt"
+
+text_file_object = Text_File_Handling(file_path)
+
+# print(text_file_object.read_text_file())
+
+# text_file_object.write_text_file();
+
+# print(text_file_object.write_text_file())
+
+# print(text_file_object.read_text_using_with())
+
+print(text_file_object.write_text_file_using_with())
