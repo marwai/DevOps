@@ -42,7 +42,8 @@ class Text_File_Handling:
 
 
     def write_text_file(self):
-        # open, write, close
+        # open, write, close files
+        # close() closese files, closed() closes boolean
         file = open("writer.txt", "w")  # "w" write two arguments - one is the file and other is made
         file.write("My first python created")
         file.close()
@@ -57,7 +58,6 @@ class Text_File_Handling:
 
     def read_text_using_with(self):
         # reduce the overhead of closing files
-
         # open the file and read it. No overhead of closing
         # Automatically closes the file and also closes it during the times of exception being raised
         # Removes the manual use of close
@@ -92,13 +92,41 @@ class Text_File_Handling:
     def playing_with_exception(self):
         try:
             file = open(self.file_path, "r")
+            a = 10
+            b = 0
+            a / b
+        except FileNotFoundError as e: # never writed generalised class before the specific exception. the specific becomes totally unreachable
+            print(e)
         except Exception as e:
             print(e)
-            print("File is not present")
         else:
+            print("I am in the else clause!")
             self.text_storage = file.readline()
-            self.text_storage = file.reading()
             file.close()
         finally:
             print("Will run for sure!!")
             return self.text_storage
+
+    # def raiseException(self):
+    #     try:
+    #         first_value = (input("Enter your name "))
+    #
+    #         if(len(first_value)) ==0:
+    #             raise Exception # throws an exception which python might not have
+    #     except Exception:
+    #         print("We do not accept empty names!!")
+    #
+    #     else:
+    #         print("Thank you for entering your name: ",first_value)
+
+    def raiseException(self):
+            try:
+                name = (input("Enter your name: "))
+                if (len(name)) == 0:
+                    raise Exception  # throws an exception which python might not have
+            except ValueError:
+                print("please enter a valid name")
+                self.raiseException()
+            else:
+                print("enter a valid name: ", name)
+

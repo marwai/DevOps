@@ -4,9 +4,9 @@
 # 3. CSV
 # 4. Assignments
 
-from textfile import Text_File_Handling
+from try_explain.try_textfile import Text_File_Handling
 
-file_path = "modified.txt"
+file_path = "../modified.txt"
 
 text_file_object = Text_File_Handling(file_path)
 
@@ -35,3 +35,5 @@ text_file_object = Text_File_Handling(file_path)
 # print(text_file_object.read_text_using_with())
 # print(text_file_object.write_text_file_using_with())
 text_file_object.playing_with_exception()
+
+text_file_object.raiseException()
