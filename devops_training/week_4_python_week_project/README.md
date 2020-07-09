@@ -16,5 +16,6 @@
     - [x] [130 exchange rates](https://github.com/marwai/DevOps/blob/master/oop_with_apis/exchange_rates.json) 
     - [x] [131json homework](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_api_homework.py)
 - [x] [132 Test Driven Development (TDD)](https://github.com/marwai/DevOps/tree/master/python_tdd_pytest)
+    - [x] [133 Calculator Exercise]()
 - [x] [133 File Handling](https://github.com/marwai/DevOps/tree/master/filehandlingclasses)
 - [x] [134 File Handling Homework](https://github.com/marwai/DevOps/tree/master/filehandlingclasshomework) 

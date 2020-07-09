@@ -24,28 +24,33 @@ server = 'databases2.spartaglobal.academy'
 database = 'Northwind'
 username = 'SA'
 password = 'Passw0rd2018'
-connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
-cursor = connection.cursor()
-print(connection)
+cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
+cursor = cnxn.cursor()
+print(cnxn)
 print(cursor)
 
-
-
-
+# Different function
+connection_string = ('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE=' + database +';UID='+ username +';PWD='+ password)
+cnxn = pyodbc.connect(connection_string)
+cursor = cnxn.cursor()
+cursor.execute(" select * from Customers ")
+rows = cursor.fetchall()
+for row in rows:
+    print(row)
 
 
 # Specifying the ODBC driver, server name, database, etc. directly
-# cnxnString = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE'+database+';UID='+username+';PWD='password
+# # cnxnString = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE'+database+';UID='+username+';PWD='password
 
 # cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+password)
 
 # try:
-#     with pyodbc.connect(connectionString, timeout=5) as connection:
+#     with pyodbc.connect(connection, timeout=5) as connection:
 #         print("Connection did not time out")
 # except:
 #     print("Connection Time out")
 # else:
-    pass
+#     pass
     # acquire a cursor from a connection-execute the code-through
     # the cursor-cursor.fetch-iterate through the results by using the raw objects that are returned by the cursor.fetch
 
