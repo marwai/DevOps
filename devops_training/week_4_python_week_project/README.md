@@ -12,8 +12,12 @@
         * [Studet Data Polymorphism Example](https://github.com/marwai/student_data_polymorphism)  
         * [Student Data Abstraction Example](https://github.com/marwai/student_data_abstraction)  
             
-* [OOP with apis](https://github.com/marwai/DevOps/tree/master/oop_with_apis)
-    *
+* [OOP with apis](https://github.com/marwai/DevOps/tree/master/oop_with_apis)  
+    * [json encoding decoding](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_encoding_decoding.py)
+    * [json parsing](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_parsing_with_api.py)
+    * [Exchange rates](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_exchange_rates.py)
+    * [exchange rates](https://github.com/marwai/DevOps/blob/master/oop_with_apis/exchange_rates.json) 
+    * [json homework](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_api_homework.py)
 
 
 * [Test Driven Development (TDD)](https://github.com/marwai/DevOps/tree/master/python_tdd_pytest)

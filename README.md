@@ -4,7 +4,8 @@
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
     Hi, welcome to my Github. 
-    All my learning material will be documented here
+    All my learning material will be documented here. 
+    Please see the calendar for indivdiual breakdown of the work
  :notebook_with_decorative_cover:      
  
 ##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
