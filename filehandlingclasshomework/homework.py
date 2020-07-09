@@ -35,20 +35,20 @@ class User_Input:
                 else: # COMMENT
                     print("Please try again\n") #COMMENT
 
-        # method 1 continued
-        # writes the output of user_input
-        # def write_user_input(self):
-        #     self.user_input()
-        #     with open("user_name.txt", "w+") as file:  # w+ write and read mode (OVERRIDES value)
-        #         file.write(self.name)  # What is dynamically type, strongly type
-        #         file.seek(0)
-        #         self.new_text = str(file.read())
-        #
-        # # repeats previous method but writes on another file
-        # def again(self):
-        #     self.write_user_input()
-        #     with open("user_name_two.txt", "w+") as file:
-        #         file.write(self.new_text)
+    # method 1 continued COMMENT
+    # writes the output of user_input
+    def write_user_input(self):
+        self.user_input()
+        with open("user_name.txt", "w+") as file:  # w+ write and read mode (OVERRIDES value)
+            file.write(self.name)  #
+            file.seek(0) # sets the position to 0
+            self.new_text = str(file.read()) # writes in new file
+
+    # repeats previous method but writes on another file
+    def again(self):
+        self.write_user_input()
+        with open("user_name_two.txt", "w+") as file:
+            file.write(self.new_text)
 
         # method two shorthand
         # while True:
@@ -71,19 +71,20 @@ class User_Input:
         #                 self.new_text = str(file.read())
         #                 return self.name
 
-
-
-
-        # def read_image(self):
-        #     with open('tree.JPG', 'r') as i, open('tree.JPG', 'w+') as ii:
-        #         ii.write(i.read())
-        #         Image.open('tree.JPG').show()
+    def image_writefile(self):
+        with open('lol.jpg', 'rb') as f, open('global.png', 'wb') as f2:
+            f2.write(f.read())
+            Image.open('lol.jpg').show()
 
 
 object1 = User_Input()
-# object1.again()
-object1.user_input()
 
+# Exercise 1
+# object1.user_input() # METHOD 1
+# object1.again() # METHOD 2
+
+# Exercise 2
+object1.image_writefile()
 
 
 
