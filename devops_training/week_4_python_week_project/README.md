@@ -4,20 +4,17 @@
     - [x] [119 OOP Asbtraction](https://github.com/marwai/oop_abstraction)
     - [x] [120 OOP Polymorphism](https://github.com/marwai/oop_polymorphism)
     - [x] [OOP Encapsulation](https://github.com/marwai/DevOps/tree/master/oop_encapsulation)
-- [x] Examples   
+- [x] Examples: 
     - [x] [Student Data Inheritance](https://github.com/marwai/student_data_inheritance)
     - [x] [Student Data Encapsulation Example](https://github.com/marwai/DevOps/tree/master/student_data_encapsulation)
-    * [Studet Data Polymorphism Example](https://github.com/marwai/student_data_polymorphism)
-    * [Student Data Abstraction Example](https://github.com/marwai/student_data_abstraction)
-            
-* [OOP with apis](https://github.com/marwai/DevOps/tree/master/oop_with_apis)  
-    * [json encoding decoding](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_encoding_decoding.py)
-    * [json parsing](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_parsing_with_api.py)
-    * [Exchange rates](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_exchange_rates.py)
-    * [exchange rates](https://github.com/marwai/DevOps/blob/master/oop_with_apis/exchange_rates.json) 
-    * [json homework](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_api_homework.py)
-
-
-* [Test Driven Development (TDD)](https://github.com/marwai/DevOps/tree/master/python_tdd_pytest)
-* [File Handling](https://github.com/marwai/DevOps/tree/master/filehandlingclasses)
-    * [File Handling Homework](https://github.com/marwai/DevOps/tree/master/filehandlingclasshomework) 
+    - [x] [Studet Data Polymorphism Example](https://github.com/marwai/student_data_polymorphism)
+    - [x] [Student Data Abstraction Example](https://github.com/marwai/student_data_abstraction)     
+- [x] [OOP with apis](https://github.com/marwai/DevOps/tree/master/oop_with_apis)  
+    - [x] [json encoding decoding](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_encoding_decoding.py)
+    - [x] [json parsing](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_parsing_with_api.py)
+    - [x] [Exchange rates](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_exchange_rates.py)
+    - [x] [exchange rates](https://github.com/marwai/DevOps/blob/master/oop_with_apis/exchange_rates.json) 
+    - [x] [json homework](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_api_homework.py)
+- [x] [Test Driven Development (TDD)](https://github.com/marwai/DevOps/tree/master/python_tdd_pytest)
+- [x] [File Handling](https://github.com/marwai/DevOps/tree/master/filehandlingclasses)
+- [x] [File Handling Homework](https://github.com/marwai/DevOps/tree/master/filehandlingclasshomework) 
