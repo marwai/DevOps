@@ -1,7 +1,7 @@
 # 1. Accept from the user some text. Ensure user enters something else raise an exception.
 # After that write that text to a file and then read from this file to  write to another file simultaneously
 # 2. Reading an image to  writing to another file simultaneously
-
+# 08/07/20
 import os
 from PIL import Image
 
@@ -35,6 +35,21 @@ class User_Input:
                 else: # COMMENT
                     print("Please try again\n") #COMMENT
 
+        # method 1 continued
+        # writes the output of user_input
+        # def write_user_input(self):
+        #     self.user_input()
+        #     with open("user_name.txt", "w+") as file:  # w+ write and read mode (OVERRIDES value)
+        #         file.write(self.name)  # What is dynamically type, strongly type
+        #         file.seek(0)
+        #         self.new_text = str(file.read())
+        #
+        # # repeats previous method but writes on another file
+        # def again(self):
+        #     self.write_user_input()
+        #     with open("user_name_two.txt", "w+") as file:
+        #         file.write(self.new_text)
+
         # method two shorthand
         # while True:
         #     try:
@@ -58,24 +73,11 @@ class User_Input:
 
 
 
-    # writes the output of user_input
-    # def write_user_input(self):
-    #     self.user_input()
-    #     with open("user_name.txt", "w+") as file:  # w+ write and read mode (OVERRIDES value)
-    #         file.write(self.name)  # What is dynamically type, strongly type
-    #         file.seek(0)
-    #         self.new_text = str(file.read())
-    #
-    # # repeats previous method but writes on another file
-    # def again(self):
-    #     self.write_user_input()
-    #     with open("user_name_two.txt", "w+") as file:
-    #         file.write(self.new_text)
-    #
-    # def read_image(self):
-    #     with open('tree.JPG', 'r') as i, open('tree.JPG', 'w+') as ii:
-    #         ii.write(i.read())
-    #         Image.open('tree.JPG').show()
+
+        # def read_image(self):
+        #     with open('tree.JPG', 'r') as i, open('tree.JPG', 'w+') as ii:
+        #         ii.write(i.read())
+        #         Image.open('tree.JPG').show()
 
 
 object1 = User_Input()
