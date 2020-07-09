@@ -27,9 +27,9 @@ class user_input:
                         return self.user_name
 
     def image_writefile(self):
-        with open('lol.jpg', 'rb') as f, open('global.png', 'wb') as f2:
+        with open('me.JPG', 'r') as f, open('global.png', 'wb') as f2:
             f2.write(f.read())
-            Image.open('lol.jpg').show()
+            Image.open('me.JPG').show()
 
 
 enteruser = user_input("n")

@@ -46,7 +46,7 @@ class Text_File_Handling:
         file = open("writer.txt", "w")  # "w" write two arguments - one is the file and other is made
         file.write("My first python created")
         file.close()
-        file = open("writer.txt", "a+")  # "a" append, "a+" appends and read, DOES NOT OVERRIDE
+        file = open("writer.txt", "a+")  # "a" append, "a+" appends and read permissions, DOES NOT OVERRIDE
         file.write("\n I am overriding the file")  # append mode
         file.seek(0)
         self.text_storage = file.read()  # storing what I read from the file to the instance variable
@@ -57,7 +57,6 @@ class Text_File_Handling:
 
     def read_text_using_with(self):
         # reduce the overhead of closing files
-
         # open the file and read it. No overhead of closing
         # Automatically closes the file and also closes it during the times of exception being raised
         # Removes the manual use of close
@@ -100,3 +99,6 @@ class Text_File_Handling:
         finally:
             print("Will run for sure!!")
             return self.text_storage
+
+    # write overrides files, append will add onto the end
+    # Os files manage ODE.

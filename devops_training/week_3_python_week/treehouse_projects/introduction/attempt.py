@@ -11,11 +11,11 @@ while tickets_remaining:
     print("You have {} tickets remaining. ".format(tickets_remaining))
     name = input("What is your name? ")
     num_tickets = input("Hello {}, how many tickets do you want? ".format(name))
-    try:
+    try: # put the code which you will think will raise an exception
         num_tickets = int(num_tickets)
         if num_tickets > tickets_remaining:
             raise ValueError("There are only {} tickets remaining".format(tickets_remaining))
-    except ValueError as err:
+    except ValueError as err: # catches the thrown exception
         print("Oh no, we ran into an issue. {}. Please try again.".format(err))
     else:
 

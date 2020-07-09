@@ -34,3 +34,6 @@ class Function:
     def remainder(num1, num2):
         return num1 % num2
 
+    def sqrt(num1,num2):
+
+

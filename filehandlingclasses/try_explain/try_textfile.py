@@ -73,7 +73,7 @@ class Text_File_Handling:
             self.text_storage = file.read()# What is dynamically type, strongly type
             return self.text_storage# LEARN DYNAMICALLY (PYTHON) AND STATICALLY TYPE
 
-    def playin_with_python_os_module(self):
+    def playin_with_pyth    on_os_module(self):
         import os
         print(os.getcwd())  # current working directory
         # os.remove("writer.txt")

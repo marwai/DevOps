@@ -72,9 +72,9 @@ class User_Input:
         #                 return self.name
 
     def image_writefile(self):
-        with open('lol.jpg', 'rb') as f, open('global.png', 'wb') as f2:
+        with open('me.JPG', 'rb') as f, open('global.png', 'wb') as f2:
             f2.write(f.read())
-            Image.open('lol.jpg').show()
+            Image.open('me.JPG').show()
 
 
 object1 = User_Input()

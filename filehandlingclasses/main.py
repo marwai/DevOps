@@ -23,7 +23,7 @@ text_file_object.write_text_file();
 # text_file_object.playin_with_python_os_module()
 
 # try-put the code which you will think will raise an exception
-# exception - cathes the thrown exception
+# exception - catches the thrown exception
 # else - if exception is not thrown, then the program can run the following code
 # finally - whether an exception is raised or not, the code in this part will run. Usually used for closing drivers or
 # database connections

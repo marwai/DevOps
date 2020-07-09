@@ -36,7 +36,16 @@ class Check_Status_code:
 status = Check_Status_code() # creating a class object/instantiating
 print(status.check_status_code()) # Calling the method of check_status_code within the class
 # Iteration 3
+class Check_Status:
+    def check_status_code():
+        if post_code_req.status_code:
+            print("succes")
+        elif post_code_req.status_code == 400:
+            print("sorry page unavaiable")
 
+
+check1 = Check_Status
+check1.check_status_code()
 
 # notes
 json_data= post_codes_req.json()
