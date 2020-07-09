@@ -1,16 +1,14 @@
 # Overview
-
 * [OOP](https://github.com/marwai/oop)   
     * [OOP Inheritance](https://github.com/marwai/oop_inheritance)
     * [OOP Asbtraction](https://github.com/marwai/oop_abstraction)
     * [OOP Polymorphism](https://github.com/marwai/oop_polymorphism)
     * [OOP Encapsulation](https://github.com/marwai/DevOps/tree/master/oop_encapsulation)
-    
-    Examples   
-        * [Student Data Inheritance](https://github.com/marwai/student_data_inheritance)   
-        * [Student Data Encapsulation Example](https://github.com/marwai/DevOps/tree/master/student_data_encapsulation)  
-        * [Studet Data Polymorphism Example](https://github.com/marwai/student_data_polymorphism)  
-        * [Student Data Abstraction Example](https://github.com/marwai/student_data_abstraction)  
+* Examples   
+    * [Student Data Inheritance](https://github.com/marwai/student_data_inheritance)
+    * [Student Data Encapsulation Example](https://github.com/marwai/DevOps/tree/master/student_data_encapsulation)
+    * [Studet Data Polymorphism Example](https://github.com/marwai/student_data_polymorphism)
+    * [Student Data Abstraction Example](https://github.com/marwai/student_data_abstraction)
             
 * [OOP with apis](https://github.com/marwai/DevOps/tree/master/oop_with_apis)  
     * [json encoding decoding](https://github.com/marwai/DevOps/blob/master/oop_with_apis/json_encoding_decoding.py)
