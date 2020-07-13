@@ -200,7 +200,7 @@ print(dob)
 ```
 ---
 
-**Variable**
+[Variable](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/day_1/101_variable.py)
 - Another name for placeholder
 - A reserved memory location to store data values 
 - Variables can be declared by any name 
@@ -213,16 +213,16 @@ this_is_also_a_variable = (str(this_is_variable) + this_is_another_variable)
 ---
 **List** vs **tuple** vs **set** vs **dictionary**
 
-[List](lists.py) []
+[List](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/day_1/104%20_lists.py)
 - mutable, stores duplicate values, elements accessed using indexes, ordered collection
 - Methods = `.append()`, `.remove()`, `.insert()`, `.pop()`
 - `.remove()` removes first matching value, `del list_name[index]` removes item at specific index. `.pop()` removes item at specific index and returns it.
 
-[Tuple](tuples.py) ()
+[Tuple](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/day_1/105_tuples.py)
 - Like a list but immutable, stores duplicate values, ordered collection, accessed using indexes.
 - Methods = `.add()`, `.discard()`, `.count()`, `.del`
 
-[Set](sets.py) ()
+[Set](https://github.com/marwai/DevOps/blob/master/devops_training/week_3_python_week/day_1/108_sets.py)
 - Unordered, not indexed, does not store duplicate entries
 - Methods = `.add()`, `.clear()`, `.update()`, `.remove()`
 
