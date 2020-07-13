@@ -17,8 +17,8 @@
     - [x] [131json homework](https://github.com/marwai/oop_with_apis/blob/master/json_api_homework.py)
 - [x] [132 Test Driven Development (TDD)](https://github.com/marwai/python_tdd)
     - [x] [133 Calculator Exercise](https://github.com/marwai/python_tdd/blob/master/calc.py) , [Part IIlo](https://github.com/marwai/python_tdd/blob/master/calc_test.py)
-- [x] [133 File Handling](https://github.com/marwai/DevOps/tree/master/filehandlingclasses)
-- [x] [134 File Handling Homework](https://github.com/marwai/DevOps/tree/master/filehandlingclasshomework) 
+- [x] [133 File Handling](https://github.com/marwai/filehandlingclasses)
+- [x] [134 File Handling Homework](https://github.com/marwai/filehandlingclasshomework) 
 - [x] [135 Database Connections](https://github.com/marwai/DevOps/tree/master/database_connections)
 
 ## Terminology
