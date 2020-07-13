@@ -11,6 +11,7 @@
 ##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
 ##### ```Marcus' ``` Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-97mt/)
 ##### ```Marcus' ``` Projects [Here](https://github.com/marwai/projects)
+##### ```Marcus' ``` Additional exercises [Here](https://github.com/marwai/additional_exercises) 
 ___
 
 #### :calendar: Calendar 
