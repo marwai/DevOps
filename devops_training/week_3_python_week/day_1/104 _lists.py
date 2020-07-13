@@ -1,9 +1,11 @@
 # Data collection
 # Java array in Python Lists are same as arrays
 # both serve the same purpose of sotring data
-# Lists - manage data - access data in order - it gives us the option to add and remove data etc.
+# Lists - manage data - access data in order - it gives us the option to
+# add and remove data etc.
 
-# Syntax of list: [list] square brackest, (tuple) round brackets, {dictionary - key:value} curly brackets
+# Syntax of list: [list] square brackest, (tuple) round brackets,
+# {dictionary - key:value} curly brackets
 # Dictionary returns values and key:value pairs
 # Tuples are immutable
 # List are mutable

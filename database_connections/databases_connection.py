@@ -27,16 +27,16 @@ username = 'SA'
 password = 'Passw0rd2018'
 cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
 cursor = cnxn.cursor()
-print(cnxn)
-print(cursor)
+# print(cnxn)
+# print(cursor)
 
-try:
-    with pyodbc.connect(connection, timeout=5) as connection:
-        print("Connection did not time out")
-except:
-    print("Connection Time out")
-else:
-    pass
+# try:
+#     with pyodbc.connect(connection, timeout=5) as connection:
+#         print("Connection did not time out")
+# except:
+#     print("Connection Time out")
+# else:
+#     pass
 
 query_result = cursor.execute('SELECT * FROM Products')
 
@@ -48,20 +48,23 @@ query_result = cursor.execute('SELECT * FROM Products')
 # print(rows.ProductName)
 
 # # notes 2
-rows = query_result.fetchone()
-print(type(rows)) # pyodbc.row object
-print(rows[1]) # second column of rows-columns start from 0th index
-print(rows.ProductName)
+# rows = query_result.fetchone()
+# print(type(rows)) # pyodbc.row object
+# print(rows[1]) # second column of rows-columns start from 0th index
+# print(rows.ProductName)
 
-print("Executing fetchmany::", query_result.fetchmany(30))
-for row in rows:
-    print(row)
+#notes 3
+# print("Executing fetchmany::", query_result.fetchmany(30))
+# for row in rows:
+#     print(row)
 
+# notes4
 print("______FETCHALL-----")
 rows = query_result.fetchall() # better way to fetch
 
+# notes 5
 for row in rows:
-    print("ProductName::"+row.ProductName, "Costs:", row.UnitPrice)
+    print("ProductName::"+row.ProductName+", Costs:", row.UnitPrice)
 
 
 # if you want to get back to the start, you need a new cursor or to run the excute command again

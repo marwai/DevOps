@@ -15,7 +15,7 @@ print("Hi {}, welcome to Python".format(welcome_user))
 hi = "Hello world"
 print(len(hi)) # prints length of string
 print(hi[0]) # print h because it starts on 0
-print(hi[-1]) 0 # prints d
+print(hi[-1]) # 0 # prints d
 #
 print(hi[0:6]) # print hello
 print(hi[6:11]) # print world
