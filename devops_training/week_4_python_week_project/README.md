@@ -3,10 +3,10 @@
     - [x] [118 OOP Inheritance](https://github.com/marwai/oop_inheritance)
     - [x] [119 OOP Asbtraction](https://github.com/marwai/oop_abstraction)
     - [x] [120 OOP Polymorphism](https://github.com/marwai/oop_polymorphism)
-    - [x] [121 OOP Encapsulation](https://github.com/marwai/DevOps/tree/master/oop_encapsulation)
+    - [x] [121 OOP Encapsulation](https://github.com/marwai/oop_encapsulation)
 - [x] Examples: 
     - [x] [122 Student Data Inheritance](https://github.com/marwai/student_data_inheritance)
-    - [x] [123 Student Data Encapsulation Example](https://github.com/marwai/DevOps/tree/master/student_data_encapsulation)
+    - [x] [123 Student Data Encapsulation Example](https://github.com/marwai/student_data_encapsulation)
     - [x] [124 Studet Data Polymorphism Example](https://github.com/marwai/student_data_polymorphism)
     - [x] [125 Student Data Abstraction Example](https://github.com/marwai/student_data_abstraction)     
 - [x] [126 OOP with apis](https://github.com/marwai/oop_with_apis)  
