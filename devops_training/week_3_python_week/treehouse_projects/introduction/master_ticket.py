@@ -28,7 +28,7 @@ while tickets_remaining:
         amount_due = calculate_price(num_tickets)
         print("Total due is ${}".format(amount_due))
         confirm_price = input("Do you want to proceed?  Y/N  ")
-        if confirm_price.lower() == "y":
+        if "y" in confirm_price.lower():
             print("SOLD!")
             tickets_remaining -= num_tickets
         else:
