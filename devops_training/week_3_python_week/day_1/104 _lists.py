@@ -13,26 +13,26 @@
 # Let's create a list of cities
 
 cities = ["Morrow Wind", "Runeterra","Tokyo", "Paris", "Hong Kong"]
-display (print()) #  list the cities
+# display(print(cities)) #  list the cities
 print(type(cities))
 cities[4] = "Bangkok" # this will replace city index 3
 # print(cities)
 
 # .append() adds a varibale to the end of list ie. adds the city at the end of string
-cities.append("iceland")
+# cities.append("iceland")
 
 # .remove() removes an entry from the list
-cities.remove("Paris")
-print(cities)
+# cities.remove("Paris")
+# print(cities)
 
 # .pop() removes last entry in the list
-cities.pop()
-print(cities)
+# cities.pop()
+# print(cities)
 
 # .insert() - index must be define
 cities.insert(3,"Madrid")
 print(cities)
 
-mix_type_string = [[1,2,3,]
-string_list = ["one","two","three"]
-print(string_list + mix_type_string)
+# mix_type_string = [1,2,3,]
+# string_list = ["one","two","three"]
+# print(string_list + mix_type_string)

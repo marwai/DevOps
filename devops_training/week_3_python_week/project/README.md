@@ -8,13 +8,31 @@ inch to cm converter
 NOTE -> Must be in class and method format
 ```
 # Project 2 
-
+```
+The Problem
+A string is simply an ordered collection of symbols selected from some alphabet and formed into a word; the length of a 
+string is the number of symbols that it contains.
+An example of a length 21 DNA string (whose alphabet contains the symbols 'A', 'C', 'G', and 'T') is 
+"ATGCTTCAGAAAGGTCTTACG."
+Given: A DNA string s of length at most 1000 nt.
+Return: Four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and
+ 'T' occur in s.
+Sample Dataset:
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+```
 # Project 3
+```
+The Problem
 
+"Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number 
+and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
+
+```
 # Project 4 
 Base Scrabble word calculator instructions
 ```
-Given the below scoring create a Scrabble word calculator that will provide the correct scores dependent on the string provided.
+Given the below scoring create a Scrabble word calculator that will provide the correct scores dependent on the string
+ provided.
 
 Letter Value
 A, E, I, O, U, L, N, R, S, T 1
@@ -101,7 +119,8 @@ for animal in (cat1, dog1):
     animal.info()
     animal.make_sound()
 ```
-In the code above, ```cat``` and ```dog``` have the same method names ```info ``` and   ```make sound``` with different outputs 
+In the code above, ```cat``` and ```dog``` have the same method names ```info ``` and   ```make sound``` with different 
+outputs 
 due to polymorphism 
 
 #### Method Overriding - Inheritance and Polymorpism 
