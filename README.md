@@ -21,7 +21,7 @@ ___
 - [x] Week 4 - [Python Week 2](https://github.com/marwai/DevOps/tree/master/devops_training/week_4_python_week)
 - [x] Week 5 - [Project Week](https://github.com/marwai/pythonProject)
 - [x] Week 6 - [Flask](https://github.com/marwai/mvc_flask)
-- [ ] Week 7 - [Introduction to DevOps](https://github.com/marwai/devops_67_intro)
+- [ ] Week 7 - [Introduction to DevOps](/docs/devops_67_intro)
 
 
 ---
