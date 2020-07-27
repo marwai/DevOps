@@ -18,7 +18,7 @@ ___
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/devops_training/week_1_business_week)
 - [x] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/devops_training/week_2_sql_week)
 - [x] Week 3 - [Python](https://github.com/marwai/DevOps/tree/master/devops_training/week_3_python_week)
-- [x] Week 4 - [Python Week 2](https://github.com/marwai/DevOps/tree/master/devops_training/week_4_python_week_project)
+- [x] Week 4 - [Python Week 2](https://github.com/marwai/DevOps/tree/master/devops_training/week_4_python_week)
 - [x] Week 5 - [Project Week](https://github.com/marwai/pythonProject)
 - [ ] Week 6 - [Flask](https://github.com/marwai/mvc_flask)
 
