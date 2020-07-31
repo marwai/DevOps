@@ -4,7 +4,7 @@
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
 [![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwai)](https://github.com/marwai/github-readme-stats)
   
     Hi, welcome to my Github. 
     All my learning material will be documented here. 
