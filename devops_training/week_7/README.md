@@ -1,8 +1,40 @@
 # Virtual Machines 
 [140 DevOps](https://github.com/marwai/devops_67_intro)    
 [141 README.md](https://github.com/marwai/readme)     
-[142 Virtual Machine](https://github.com/marwai/multi_machine_task)
+[142 Virtual Machine](https://github.com/marwai/multi_machine_task)  
 [143 Reverse Nginx Proxy](https://github.com/marwai/solution-code-environment-vars)
+
+## Part I 
+- [Part I](#Vagrant)
+- [Why](#Why?)
+- [Developers](#Developers)
+- [DevOps](#DevOps)
+
+## Part II
+- [Termninology](#Terminology)
+- [Install Bundle](#Install-bundle )
+
+## Vagrant
+
+Vagrant is a software development tool used for building building and manging virtual machine environment in a single workflow.
+Vagrant focuses on automation, and lowers development set up time, increases production parity. It is a key tool for DevOps
+for automation.
+
+## Why? 
+
+Provides provides easy to configure, reproducible and portable work environments to maximise productivity and flexibility. Then 
+provisioning tools such as shell scripts, can automatically install and configure software on the virtual machine. 
+ 
+## Developers
+Vagrant isolates dependencies and configurations within single flow, provide consistent environment without sacrificing tools,
+such as (editors, browsers and debuggers etc.) With the use of  ```vagrant up ```  everything in installed. Others can create 
+their develpoment environment from same configuration whether they are on Linux, Mac, OS X, or Windows
+
+## DevOps
+As a DevOps Engineer, it will be used for developing and testing infrastructure management scripts. Quick tests can be ran
+against shell scripts, puppet modules, and more local virtualisation using VirtualBox or VMware. Even scripts on clouds 
+such as AWS with the same workflow. Capababilities of juggling SSH prompts to various machines using vagrant will reduce 
+custom scripts to recycle EC2 instances. 
 
 ## Vagrant
 inside our VM machine 16.04sudo apt-get install -y
