@@ -3,6 +3,9 @@
 #####   Trainee DevOps Engineer,
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
+[![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
+
+  
     Hi, welcome to my Github. 
     All my learning material will be documented here. 
     Please see the calendar for indivdiual breakdown of the work
