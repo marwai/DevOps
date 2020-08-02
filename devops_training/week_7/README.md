@@ -3,6 +3,7 @@
 [141 README.md](https://github.com/marwai/readme)     
 [142 Virtual Machine](https://github.com/marwai/multi_machine_task)  
 [143 Reverse Nginx Proxy](https://github.com/marwai/solution-code-environment-vars)
+[144 Cheatsheet](https://github.com/marwai/vagrant_cheatsheet_md)
 
 ## Part I 
 - [Part I](#Vagrant)
