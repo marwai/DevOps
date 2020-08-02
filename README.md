@@ -11,7 +11,7 @@
     Please see the calendar for indivdiual breakdown of the work
  :notebook_with_decorative_cover:      
  
-##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps/tree/master/DevOps)
+##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps)
 ##### ```Marcus' ``` Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-97mt/)
 ##### ```Marcus' ``` Projects [Here](https://github.com/marwai/projects)
 ##### ```Marcus' ``` Additional exercises [Here](https://github.com/marwai/additional_exercises) 
