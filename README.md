@@ -12,7 +12,7 @@
  :notebook_with_decorative_cover:      
  
 ##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps)
-##### ```Marcus' ``` Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-97mt/)
+##### ```Marcus' ``` Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
 ##### ```Marcus' ``` Projects [Here](https://github.com/marwai/projects)
 ##### ```Marcus' ``` Additional exercises [Here](https://github.com/marwai/additional_exercises) 
 ___
