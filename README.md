@@ -3,8 +3,7 @@
 #####   Trainee DevOps Engineer,
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
-[![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwai)](https://github.com/marwai/github-readme-stats)
+
   
     Hi, welcome to my Github. 
     All my learning material will be documented here. 
@@ -17,6 +16,10 @@
 ##### ```Marcus' ``` Additional exercises [Here](https://github.com/marwai/additional_exercises) 
 ___
 
+#### Additional Information 
+[![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwai)](https://github.com/marwai/github-readme-stats)
+___
 #### :calendar: Calendar 
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/devops_training/week_1_business_week)
 - [x] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/devops_training/week_2_sql_week)
@@ -25,7 +28,7 @@ ___
 - [x] Week 5 - [Project Week](https://github.com/marwai/pythonProject)
 - [x] Week 6 - [Flask](https://github.com/marwai/mvc_flask)
 - [x] Week 7 - [Introduction to DevOps](https://github.com/marwai/DevOps/tree/master/devops_training/week_7_DevOps)
-
+- [ ] Week 8 - [Continuous Integration,Continuous Delivery and Continuous Deployment](https://github.com/marwai/ci-start-code) 
 
 ---
 
