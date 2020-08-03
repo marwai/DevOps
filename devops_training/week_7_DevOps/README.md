@@ -7,14 +7,19 @@
 [143 Reverse Nginx Proxy](https://github.com/marwai/solution-code-environment-vars)  
 [144 Cheatsheet](https://github.com/marwai/vagrant_cheatsheet_md)     
 [145 Solution to Recerse Nginx Proxy](https://github.com/marwai/solution-code-environment-vars)
+
+### Typical Interview Questions
+- [DevOps](https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions)
+- [Vagrant](https://codingcompiler.com/vagrant-interview-questions-answers/)
+- [Nginx](https://career.guru99.com/top-18-nginx-interview-question/) 
 ### Part I 
 - [Part I](#Vagrant)
 - [Why](#Why?)
-- [Developers](#Developers)
-- [DevOps](#DevOps)
+- [Uses for Developers](#Developers)
+- [Uses for DevOps](#DevOps)
 
 ### Part II
-- [Termninology](#Terminology)
+- [Terminology](#Terminology)
 - [Install Bundle](#Install-bundle )
 
 ### Vagrant
