@@ -6,7 +6,7 @@
 [142 Virtual Machine](https://github.com/marwai/multi_machine_task)  
 [143 Reverse Nginx Proxy](https://github.com/marwai/solution-code-environment-vars)  
 [144 Cheatsheet](https://github.com/marwai/vagrant_cheatsheet_md)     
-[145 Solution to Recerse Nginx Proxy](https://github.com/marwai/solution-code-environment-vars)
+[145 Reverse Nginx Proxy Solution](https://github.com/marwai/solution-code-environment-vars)
 
 ### Typical Interview Questions
 - [DevOps](https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions)
