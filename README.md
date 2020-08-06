@@ -3,7 +3,6 @@
 #####   Trainee DevOps Engineer,
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
-![Visitor Count](https://profile-counter.glitch.me/marwai/count.svg)
   
     Hi, welcome to my Github. 
     All my learning material will be documented here. 
@@ -19,6 +18,7 @@ ___
 #### Additional Information 
 [![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwai)](https://github.com/marwai/github-readme-stats)
+![Visitor Count](https://profile-counter.glitch.me/marwai/count.svg)
 ___
 #### :calendar: Calendar 
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/devops_training/week_1_business_week)
