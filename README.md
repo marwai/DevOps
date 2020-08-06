@@ -3,7 +3,7 @@
 #####   Trainee DevOps Engineer,
 #####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
   
-
+![Visitor Count](https://profile-counter.glitch.me/marwai/count.svg)
   
     Hi, welcome to my Github. 
     All my learning material will be documented here. 
