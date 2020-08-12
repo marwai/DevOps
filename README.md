@@ -27,9 +27,9 @@ ___
 - [x] Week 4 - [Python Week 2](https://github.com/marwai/DevOps/tree/master/devops_training/week_4_python_week)
 - [x] Week 5 - [Project Week](https://github.com/marwai/pythonProject)
 - [x] Week 6 - [Flask](https://github.com/marwai/mvc_flask)
-- [x] Week 7 - [Introduction to DevOps](https://github.com/marwai/DevOps/tree/master/devops_training/week_7_DevOps)
-- [x] Week 8 - [Continuous Integration,Continuous Delivery and Continuous Deployment](https://github.com/marwai/ci-start-code)    
-- [x] Week 9 - test
+- [x] Week 7 - [Introduction to DevOps - CI/CD Pipeline](https://github.com/marwai/DevOps/tree/master/devops_training/week_7_DevOps)
+- [x] Week 8 - [Cloud Services](https://github.com/marwai/ci-start-code)    
+- [x] Week 9 - [Networking and Configuration Management]
 
 ---
 
