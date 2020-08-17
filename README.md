@@ -30,7 +30,9 @@ ___
 - [x] Week 7 - [Introduction to DevOps - CI/CD Pipeline](https://github.com/marwai/DevOps/tree/master/devops_training/week_7_DevOps)
 - [x] Week 8 - [Cloud Services](https://github.com/marwai/ci-start-code)    
 - [x] Week 9 - [Networking and Configuration Management](https://github.com/marwai/DevOps/tree/master/devops_training/week_9_networking)
-
+- [x] Week 10 -
+- [x] Week 11 - 
+- [x] Week 12 - 
 ---
 
 #### Setting up new Repository 
