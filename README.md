@@ -15,11 +15,6 @@
 ##### ```Marcus' ``` Additional exercises [Here](https://github.com/marwai/additional_exercises) 
 ___
 
-#### Additional Information 
-[![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwai)](https://github.com/marwai/github-readme-stats)
-![Visitor Count](https://profile-counter.glitch.me/marwai/count.svg)
-___
 #### :calendar: Calendar 
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/devops_training/week_1_business_week)
 - [x] Week 2 - [SQL](https://github.com/marwai/DevOps/tree/master/devops_training/week_2_sql_week)
